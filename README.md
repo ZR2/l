@@ -5,7 +5,6 @@ You might want to join my discord server where i can provide help etc. https://d
 
 ##This section will guide you through how to setup NadekoBot from the source code
 #### If you want to semi-easily setup the bot, go to [releases](https://github.com/Kwoth/NadekoBot/releases)
-After you have cloned this repo, move the libopus and libsodium from the DLLs folder to the bin/debug. And after removing all of Discord.Net's project references, add other dlls from dll folder as a reference. Those are part of the libraries you will need for your project. The other part should resolve after you start the project for the first time.
 
 In your bin/debug folder (or next to your exe), you must have a file called 'credentials.json' in which you will store all the necessary data to make the bot know who the owner is, where to store data, etc.
 
@@ -39,14 +38,13 @@ In your bin/debug folder (or next to your exe), you must have a file called 'cre
 ```
 - BotMention(bot\_id) and OwnerID are **NOT** names of the owner and the bot. If you do not know the id of your bot, put 2 random numbers in those fields, run the bot and do `.uid @MyBotName` - that will give you your bot\_id, do the same for yourself `.uid @MyName` and copy the numbers in their respective fields.
 - For google api key, you need to enable URL shortner and Youtube video search in the [dev console](https://console.developers.google.com/).
-- For **ParseID** and **ParseKey**, you need to register on http://www.parse.com, get those values and create an app with these 3 classes: `'CommandsRan', 'Requests' and 'Stats'` in order to make the logging work.
-- If you have **Windows7**, you need to install [Parse.Api](https://www.nuget.org/packages/Parse.Api/) instead of the library that comes with this project
+- For **ParseID** and **ParseKey**, you need to register on http://www.parse.com, get those values and create a **DATA** app with these 3 classes: `'CommandsRan', 'Requests' and 'Stats'` in order to make the logging work http://i.imgur.com/bXsL19z.png.
 - If you want to have music, you need to download FFMPEG from this link http://ffmpeg.zeranoe.com/builds/ (static build version) and add ffmpeg/bin folder to your PATH environment variable. You do that by opening explorer -> right click 'This PC' -> properties -> advanced system settings -> In the top part, there is a PATH field, add `;` to the end and then your ffmpeg install location /bin (for example ;C:\ffmpeg-5.6.7\bin) and save. Open command prompt and type ffmpeg to see if you added it correctly. If it says "command not found" then you made a mistake somewhere. There are a lot of guides on the internet on how to add stuff to your PATH, check them out if you are stuck.
 
 Download [this folder](http://s000.tinyupload.com/index.php?file_id=54172283263968075500) which contains images and add it next to your .exe in order to make the $draw, $flip, rip and similar functions work.
 
 You should replace nadeko's image with the image of your bot in order to make the hide/unhide commands work as intended.
-You should **remove** Discord.Net projects from your solution, and use DLLs instead, as instructed above.  
+You should **remove** Discord.Net projects from your solution, and use add reference to the Discord.NET DLLs in your bin/debug.  
 
 **You are all set.**
 Fire up visual studio, wait for it to resolve dependencies and start NadekoBot.
@@ -155,7 +153,6 @@ Command and aliases | Description | Usage
 `!m q`, `!m yq`  |  Queue a song using keywords or link. **You must be in a voice channel**. |  `!m q Dream Of Venice`
 `!m np`, `!m playing`  |  Shows what song is playing.
 `!m lq`, `!m ls`, `!m lp`  |  Lists up to 10 currently queued songs.
-`!m clrbfr`, `!m clearbuffers`  |  Clears the music buffer across all servers. **Owner only.**
 `!m sh`  |  Shuffles the current playlist.
 
 ### Searches  

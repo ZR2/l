@@ -256,15 +256,11 @@ namespace NadekoBot.Modules
 
                 cgb.CreateCommand(".uid").Alias(".userid")
                     .Description("Shows user id")
-                    .Parameter("user", ParameterType.Required)
+                    .Parameter("user", ParameterType.Optional)
                     .Do(async e => {
-                        var usr = e.Channel.FindUsers(e.GetArg("user")).FirstOrDefault();
-                        if (usr == null) {
-                            await e.Send("You must mention a user.");
-                            return;
-                        }
-
-                        await e.Send("Id of the user " + usr.Name + " is " + usr.Id);
+                        var usr = e.User;
+                        if(e.GetArg("user") != null) usr = e.Channel.FindUsers(e.GetArg("user")).FirstOrDefault();
+                        await e.Send($"Id of the user { usr.Name } is { usr.Id }");
                     });
 
                 cgb.CreateCommand(".cid").Alias(".channelid")
@@ -314,7 +310,6 @@ namespace NadekoBot.Modules
 
                 cgb.CreateCommand(".die")
                     .Alias(".graceful")
-                    .Parameter("reason",ParameterType.Unparsed)
                     .Description("Works only for the owner. Shuts the bot down and notifies users about the restart.")
                     .Do(async e => {
                         if (e.User.Id == NadekoBot.OwnerID) {
@@ -322,13 +317,6 @@ namespace NadekoBot.Modules
                             t.Interval = 2000;
                             t.Elapsed += (s, ev) => { Environment.Exit(0); };
                             t.Start();
-                            string reason = e.GetArg("reason");
-                            if (reason == null)
-                                reason = "Unspecified.";
-                            foreach (var kvp in Music.musicPlayers) {
-                                if(kvp.Value?.CurrentSong?.Channel!=null)
-                                    await kvp.Value.CurrentSong.Channel.Send($"Owner initiated a shutdown, sorry for the interruption.\nReason: `{reason}`");
-                            }
                             await e.Send("`Shutting down.`");
                         }
                     });
@@ -383,6 +371,7 @@ namespace NadekoBot.Modules
                     .Description("Sets a user for through-bot communication. Only works if server is set.**Owner only**.")
                     .Parameter("name", ParameterType.Unparsed)
                     .Do(async e => {
+                        if (e.User.Id != NadekoBot.OwnerID) return;
                         commsUser = commsServer?.FindUsers(e.GetArg("name")).FirstOrDefault();
                         if (commsUser != null)
                             await e.Send("User for comms set.");
@@ -394,6 +383,7 @@ namespace NadekoBot.Modules
                     .Description("Sets a server for through-bot communication.**Owner only**.")
                     .Parameter("server", ParameterType.Unparsed)
                     .Do(async e => {
+                        if (e.User.Id != NadekoBot.OwnerID) return;
                         commsServer = client.FindServers(e.GetArg("server")).FirstOrDefault();
                         if (commsServer != null)
                             await e.Send("Server for comms set.");

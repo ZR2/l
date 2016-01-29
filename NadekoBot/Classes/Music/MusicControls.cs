@@ -19,7 +19,10 @@ namespace NadekoBot.Classes.Music {
             Task.Run(async () => {
                 while (true) {
                     try {
-                        if (CurrentSong == null || CurrentSong.State == StreamState.Completed) {
+                        if (CurrentSong == null) {
+                            if (SongQueue.Count > 0)
+                                LoadNextSong();
+                        } else if (CurrentSong.State == StreamState.Completed) {
                             LoadNextSong();
                         }
                     } catch (Exception e) {
@@ -30,17 +33,16 @@ namespace NadekoBot.Classes.Music {
             });
         }
 
-        private void LoadNextSong() {
+        public void LoadNextSong() {
+            Console.WriteLine("Loading next song.");
             if (SongQueue.Count == 0) {
-                if (CurrentSong != null)
-                    CurrentSong.Cancel();
                 CurrentSong = null;
                 return;
             }
             CurrentSong = SongQueue[0];
             SongQueue.RemoveAt(0);
             CurrentSong.Start();
-            Console.WriteLine("starting");
+            Console.WriteLine("Starting next song.");
         }
 
         internal void RemoveAllSongs() {

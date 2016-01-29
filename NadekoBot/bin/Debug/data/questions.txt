@@ -455,10 +455,6 @@
     "Answer": "Acronym"
   },
   {
-    "Question": "Aarchie Moore, was world champion in what sport from 1952 1962",
-    "Answer": "boxing"
-  },
-  {
     "Question": "About which Prime Minister was it said 'He could never see a belt without hitting below it'",
     "Answer": "lloyd george"
   },
@@ -1668,10 +1664,6 @@
     "Answer": "celtics"
   },
   {
-    "Question": "Bat Masterson was a sportswriter for what paper",
-    "Answer": "morning telegraph"
-  },
-  {
     "Question": "Beasley how much does park place cost in monopoly",
     "Answer": "four hundred fifty dollars"
   },
@@ -1807,987 +1799,987 @@
     "Answer": "the first cut is the"
   },
   {
-    "Category": "Category: 1980s GrabBag ",
+    "Category": "1980s GrabBag ",
     "Question": " He lost the 1977 NYC mayoral bid before taking successful aim at Albany",
     "Answer": "mario cuomo"
   },
   {
-    "Category": "Category: 1980s GrabBag",
+    "Category": "1980s GrabBag",
     "Question": " Country that saw 32 of its citizens convicted of spying from 1981-88",
     "Answer": "united states"
   },
   {
-    "Category": "Category: 1980s GrabBag",
+    "Category": "1980s GrabBag",
     "Question": " First shortstop since Carew to lead all-star voting 2 years in a row",
     "Answer": "ozzie smith"
   },
   {
-    "Category": "Category: 1980s GrabBag",
+    "Category": "1980s GrabBag",
     "Question": " The last team Tom Seaver tried to pitch for",
     "Answer": "new york mets"
   },
   {
-    "Category": "Category: 1980s GrabBag",
+    "Category": "1980s GrabBag",
     "Question": " This country's President Zia ul-Haq was killed in a 1988 plane crash",
     "Answer": "pakistan"
   },
   {
-    "Category": "Category: 1993 The Year",
+    "Category": "1993 The Year",
     "Question": " billion of financial aid went to this nation.",
     "Answer": "russia"
   },
   {
-    "Category": "Category: 1993 The Year",
+    "Category": "1993 The Year",
     "Question": " This man became South Korea's first civilian leader.",
     "Answer": "kim young sam"
   },
   {
-    "Category": "Category: 19th Cent Art",
+    "Category": "19th Cent Art",
     "Question": " The two prominent subjects in Sir Edwin Landseer's 'Man Proposes, God Disposes'",
     "Answer": "polar bear"
   },
   {
-    "Category": "Category: 60s",
+    "Category": "60s",
     "Question": " First nation ever to resign from the united nations.",
     "Answer": "indonesia"
   },
   {
-    "Category": "Category: 70s Authors",
+    "Category": "70s Authors",
     "Question": " Born on the Fourth of July",
     "Answer": "ron kovic"
   },
   {
-    "Category": "Category: 70s Authors",
+    "Category": "70s Authors",
     "Question": " The Friends of Eddie Coyle",
     "Answer": "george v. higgins"
   },
   {
-    "Category": "Category: 70s Authors",
+    "Category": "70s Authors",
     "Question": " The Summer before the Dark",
     "Answer": "doris lessing"
   },
   {
-    "Category": "Category: 70s Authors",
+    "Category": "70s Authors",
     "Question": " The Uses of Enchantment",
     "Answer": "bruno bettleheim"
   },
   {
-    "Category": "Category: 80s",
+    "Category": "80s",
     "Question": " G.D. Searle & Co put this brand sweetener on the market in 1983.",
     "Answer": "nutrasweet"
   },
   {
-    "Category": "Category: Ad Jingles",
+    "Category": "Ad Jingles",
     "Question": " They make the very best chocolate.",
     "Answer": "nestle"
   },
   {
-    "Category": "Category: Ad Slogans",
+    "Category": "Ad Slogans",
     "Question": " 'Just for the taste of it'",
     "Answer": "diet coke"
   },
   {
-    "Category": "Category: Ad Slogans",
+    "Category": "Ad Slogans",
     "Question": " 'You will'",
     "Answer": "att"
   },
   {
-    "Category": "Category: Ad Slogans",
+    "Category": "Ad Slogans",
     "Question": " 'You'll love the way we fly'",
     "Answer": "delta airlines"
   },
   {
-    "Category": "Category: Ads",
+    "Category": "Ads",
     "Question": " This product is named for its chief component, muriate of berberine.",
     "Answer": "murine"
   },
   {
-    "Category": "Category: Advertising",
+    "Category": "Advertising",
     "Question": " Jhirmack hair products were advertised by this beauty.",
     "Answer": "victoria principal"
   },
   {
-    "Category": "Category: Advertising",
+    "Category": "Advertising",
     "Question": " You are advised never to leave home without this.",
     "Answer": "american express"
   },
   {
-    "Category": "Category: Alcohol",
+    "Category": "Alcohol",
     "Question": " Monastic order that established the California wine industry",
     "Answer": "franciscan"
   },
   {
-    "Category": "Category: American Beers - State: Icehouse",
+    "Category": "American Beers - State: Icehouse",
     "Question": "",
     "Answer": "wisconsin"
   },
   {
-    "Category": "Category: Anatomy ",
+    "Category": "Anatomy ",
     "Question": " Your ____ holds your head to your shoulders.",
     "Answer": "neck"
   },
   {
-    "Category": "Category: Anime",
+    "Category": "Anime",
     "Question": " What is the name of the male lead in _Vision of Escaflowne_",
     "Answer": "van fanel"
   },
   {
-    "Category": "Category: Anime",
+    "Category": "Anime",
     "Question": " What is the name of the most recent Tenchi Muyo series",
     "Answer": "shin tenchi muyo"
   },
   {
-    "Category": "Category: Artists Hometowns",
+    "Category": "Artists Hometowns",
     "Question": " Steve Miller",
     "Answer": "madison"
   },
   {
-    "Category": "Category: Arts ",
+    "Category": "Arts ",
     "Question": " In what field of study would you find 'flying buttresses'",
     "Answer": "architecture"
   },
   {
-    "Category": "Category: Asimov Anthony",
+    "Category": "Asimov Anthony",
     "Question": " In the Xanth series, what is our world called",
     "Answer": "mundania"
   },
   {
-    "Category": "Category: Astronomy ",
+    "Category": "Astronomy ",
     "Question": " Does Uranus have an aurora",
     "Answer": "yes"
   },
   {
-    "Category": "Category: Astronomy ",
+    "Category": "Astronomy ",
     "Question": " This cluster of stars is also known as the Seven Sisters.",
     "Answer": "pleiades"
   },
   {
-    "Category": "Category: Astronomy ",
+    "Category": "Astronomy ",
     "Question": " What is the name for a group of stars",
     "Answer": "constellation"
   },
   {
-    "Category": "Category: Author",
+    "Category": "Author",
     "Question": " How To Win Friends and Influence People",
     "Answer": "dale carnegie"
   },
   {
-    "Category": "Category: Authors",
+    "Category": "Authors",
     "Question": " The Prince of Tides",
     "Answer": "conroy"
   },
   {
-    "Category": "Category: Barbie Dolls",
+    "Category": "Barbie Dolls",
     "Question": " Barbie's 'MOD'ern' cousin",
     "Answer": "francie"
   },
   {
-    "Category": "Category: Barbie",
+    "Category": "Barbie",
     "Question": " Barbie variety with suntanned skin",
     "Answer": "malibu"
   },
   {
-    "Category": "Category: Barbie: Complete the Barbie outfit name ",
+    "Category": "Barbie: Complete the Barbie outfit name ",
     "Question": " Here Comes The -----",
     "Answer": "bride"
   },
   {
-    "Category": "Category: Barbie",
+    "Category": "Barbie",
     "Question": " Ken's buddy",
     "Answer": "allan"
   },
   {
-    "Category": "Category: Barbie",
+    "Category": "Barbie",
     "Question": " What Barbie wears when she visits Japan",
     "Answer": "kimono"
   },
   {
-    "Category": "Category: Beer",
+    "Category": "Beer",
     "Question": " The process of extracting sugar from malt by soaking in water.",
     "Answer": "mashing"
   },
   {
-    "Category": "Category: Bestsellers",
+    "Category": "Bestsellers",
     "Question": " Lake Wobegon is located in this state",
     "Answer": "minnesota"
   },
   {
-    "Category": "Category: Bestsellers",
+    "Category": "Bestsellers",
     "Question": " Noble House can be found in this British colony",
     "Answer": "hong kong"
   },
   {
-    "Category": "Category: Bestsellers",
+    "Category": "Bestsellers",
     "Question": " The first horror novel to reach the top, it became a Linda Blair movie",
     "Answer": "the exorcist"
   },
   {
-    "Category": "Category: Bestsellers",
+    "Category": "Bestsellers",
     "Question": " The shortest bestselling title, by either Hepburn or King",
     "Answer": "me"
   },
   {
-    "Category": "Category: Biology ",
+    "Category": "Biology ",
     "Question": " Every human has one of these on their tummies.",
     "Answer": "navel"
   },
   {
-    "Category": "Category: Books for the Bored",
+    "Category": "Books for the Bored",
     "Question": " Who maintained law and order in Noddy's Toyland",
     "Answer": "mr. plod"
   },
   {
-    "Category": "Category: Books for the Hip Reader: Illusions",
+    "Category": "Books for the Hip Reader: Illusions",
     "Question": " The Adventures of a Reluctant Messiah?",
     "Answer": "richard bach"
   },
   {
-    "Category": "Category: Books for the Hip Reader",
+    "Category": "Books for the Hip Reader",
     "Question": " Last of the Really Great Whangdoodles",
     "Answer": "andrews"
   },
   {
-    "Category": "Category: Books for the Hip Reader",
+    "Category": "Books for the Hip Reader",
     "Question": " Men to Match My Mountains?",
     "Answer": "irving stone"
   },
   {
-    "Category": "Category: Books",
+    "Category": "Books",
     "Question": " Author of One Police Plaza, 1984 best-seller.",
     "Answer": "caunitz"
   },
   {
-    "Category": "Category: Books",
+    "Category": "Books",
     "Question": " Little girls are made of sugar, spice, and ---------- ----.",
     "Answer": "everything nice"
   },
   {
-    "Category": "Category: Books",
+    "Category": "Books",
     "Question": " Men Against the Sea was part two of this trilogy.",
     "Answer": "bounty"
   },
   {
-    "Category": "Category: Books",
+    "Category": "Books",
     "Question": " The author of 'Heidi'.",
     "Answer": "johanna spyri"
   },
   {
-    "Category": "Category: Books",
+    "Category": "Books",
     "Question": " This event prompted Mailer to write The Naked and the Dead.",
     "Answer": "pearl harbor"
   },
   {
-    "Category": "Category: Books",
+    "Category": "Books",
     "Question": " This novel inspired the TV series 'The Six Million Dollar Man'",
     "Answer": "cyborg"
   },
   {
-    "Category": "Category: Books: Wrote The Teachings of Don Juan",
+    "Category": "Books: Wrote The Teachings of Don Juan",
     "Question": " A Yaqui Way of Knowledge.",
     "Answer": "castaneda"
   },
   {
-    "Category": "Category: Booze Grabbag",
+    "Category": "Booze Grabbag",
     "Question": " Spice that a bartender would dust your Brandy Flip with",
     "Answer": "nutmeg"
   },
   {
-    "Category": "Category: Booze Names",
+    "Category": "Booze Names",
     "Question": " 1 oz. gin and 1 oz. orange juice.",
     "Answer": "orange blossom"
   },
   {
-    "Category": "Category: Booze Names",
+    "Category": "Booze Names",
     "Question": " 1 oz. gin, 1/2 oz. dry vermouth, 1/2 oz. sweet vermouth, 1/2 oz. orange juice",
     "Answer": "bronx cocktail"
   },
   {
-    "Category": "Category: Booze Names",
+    "Category": "Booze Names",
     "Question": " Vodka, consomme, lemon, tabasco sauce, salt, pepper, celery salt.",
     "Answer": "bullshot"
   },
   {
-    "Category": "Category: Cars",
+    "Category": "Cars",
     "Question": " Combine a Van & a Car & you get this word.",
     "Answer": "caravan"
   },
   {
-    "Category": "Category: Cars",
+    "Category": "Cars",
     "Question": " Sister car of the Nissan Quest.",
     "Answer": "mercury villager"
   },
   {
-    "Category": "Category: Cars",
+    "Category": "Cars",
     "Question": " The original name for this Pontiac car was the Banshee, for its mythicality.",
     "Answer": "firebird"
   },
   {
-    "Category": "Category: Cars",
+    "Category": "Cars",
     "Question": " Volvo's chairman resigned in 1993 in protest of a merger with this automaker.",
     "Answer": "renault"
   },
   {
-    "Category": "Category: Cartoon Trivia ",
+    "Category": "Cartoon Trivia ",
     "Question": " In what year did both Peanuts and Beetle Bailey first appear",
     "Answer": "1950"
   },
   {
-    "Category": "Category: Cartoon Trivia ",
+    "Category": "Cartoon Trivia ",
     "Question": " Name Alley Oop's girl friend",
     "Answer": "oola"
   },
   {
-    "Category": "Category: Cartoon Trivia ",
+    "Category": "Cartoon Trivia ",
     "Question": " On what T.V. show could Tom Terrific be found",
     "Answer": "captain kangaroo"
   },
   {
-    "Category": "Category: Cartoon Trivia ",
+    "Category": "Cartoon Trivia ",
     "Question": " Tess Trueheart married which plainclothes detective",
     "Answer": "dick tracy"
   },
   {
-    "Category": "Category: Cartoon Trivia ",
+    "Category": "Cartoon Trivia ",
     "Question": " What type of plant does Broom Hilda sell",
     "Answer": "venus flytrap"
   },
   {
-    "Category": "Category: Cartoon Trivia ",
+    "Category": "Cartoon Trivia ",
     "Question": " What was the name of Speed Racer's car",
     "Answer": "the mach five"
   },
   {
-    "Category": "Category: Cartoon Trivia ",
+    "Category": "Cartoon Trivia ",
     "Question": " Who is Snoopy's arch enemy",
     "Answer": "baron"
   },
   {
-    "Category": "Category: Cartoon Trivia ",
+    "Category": "Cartoon Trivia ",
     "Question": " Who says, 'Th-th-th-that's all folks!'",
     "Answer": "porky pig"
   },
   {
-    "Category": "Category: Celebrity Lovers",
+    "Category": "Celebrity Lovers",
     "Question": " What is the FIRST NAME of U.S. Vice President Al Gore's wife",
     "Answer": "tipper"
   },
   {
-    "Category": "Category: Celebrity",
+    "Category": "Celebrity",
     "Question": " The director of Jaws, Raiders of the Lost Ark",
     "Answer": "stephen spielberg"
   },
   {
-    "Category": "Category: Character Creators",
+    "Category": "Character Creators",
     "Question": " Henry Esmond",
     "Answer": "william thackery"
   },
   {
-    "Category": "Category: Character Creators",
+    "Category": "Character Creators",
     "Question": " Jane Eyre",
     "Answer": "charlotte bronte"
   },
   {
-    "Category": "Category: Chemistry ",
+    "Category": "Chemistry ",
     "Question": " What is the main component of air",
     "Answer": "nitrogen"
   },
   {
-    "Category": "Category: Childrens Literature",
+    "Category": "Childrens Literature",
     "Question": " Childrens' series that is really a religious allegory. (C.S. Lewis)",
     "Answer": "chronicles of narnia"
   },
   {
-    "Category": "Category: Childrens Literature",
+    "Category": "Childrens Literature",
     "Question": " Judy Blume's first childrens' best seller",
     "Answer": "the tales of a fourth grade nothing"
   },
   {
-    "Category": "Category: Childrens Literature",
+    "Category": "Childrens Literature",
     "Question": " Leonard Wibberly on the Duchy of Grand Fenwick?",
     "Answer": "the mouse that roared"
   },
   {
-    "Category": "Category: Chips",
+    "Category": "Chips",
     "Question": " Dielectric thickness can be calculated from this electrical measurement",
     "Answer": "capacitance"
   },
   {
-    "Category": "Category: Chips: Early MOSFET pioneer, Stanford grad & author of the EE's device bible",
+    "Category": "Chips: Early MOSFET pioneer, Stanford grad & author of the EE's device bible",
     "Question": "",
     "Answer": "sze"
   },
   {
-    "Category": "Category: Cigarettes",
+    "Category": "Cigarettes",
     "Question": " Cigarette brand, or Robert Guillaume and shrubs.",
     "Answer": "benson and hedges"
   },
   {
-    "Category": "Category: Civil War",
+    "Category": "Civil War",
     "Question": " USA Colonel who led the famed bayonet charge down Little Round Top",
     "Answer": "joshua lawrence chamberlain"
   },
   {
-    "Category": "Category: Classic Board Games",
+    "Category": "Classic Board Games",
     "Question": " What large game company's logo contains a spiral",
     "Answer": "parker brothers"
   },
   {
-    "Category": "Category: Clive Barker",
+    "Category": "Clive Barker",
     "Question": " To the Seerkind, normal people are known as _______ (Weaveworld)",
     "Answer": "cuckoos"
   },
   {
-    "Category": "Category: Clothes",
+    "Category": "Clothes",
     "Question": " This company's logo is a sailboat.",
     "Answer": "nautica"
   },
   {
-    "Category": "Category: Clothes",
+    "Category": "Clothes",
     "Question": " Three-letter clothing outlet, or a space or void.",
     "Answer": "gap"
   },
   {
-    "Category": "Category: Contemporary Authors",
+    "Category": "Contemporary Authors",
     "Question": " Washington D.C., Myra Breckinridge",
     "Answer": "gore vidal"
   },
   {
-    "Category": "Category: Couples",
+    "Category": "Couples",
     "Question": " Miss Piggy and ______",
     "Answer": "kermit"
   },
   {
-    "Category": "Category: Couples",
+    "Category": "Couples",
     "Question": " Romeo and ______",
     "Answer": "juliet"
   },
   {
-    "Category": "Category: Couples",
+    "Category": "Couples",
     "Question": " Sluggo and ______",
     "Answer": "nancy"
   },
   {
-    "Category": "Category: Crime Stories",
+    "Category": "Crime Stories",
     "Question": " He played Caspar Gutman in the 1941 John Huston film",
     "Answer": "sydney greenstreet"
   },
   {
-    "Category": "Category: Crime Stories",
+    "Category": "Crime Stories",
     "Question": " Raymond Chandler's gumshoe",
     "Answer": "phillip marlowe"
   },
   {
-    "Category": "Category: Crime Writers",
+    "Category": "Crime Writers",
     "Question": " The Hot Rock",
     "Answer": "donald e. westlake"
   },
   {
-    "Category": "Category: Cyberpunk: Cyberpunk term for 'logging in' to a cyberspace system",
+    "Category": "Cyberpunk: Cyberpunk term for 'logging in' to a cyberspace system",
     "Question": "",
     "Answer": "jacking in"
   },
   {
-    "Category": "Category: Cyberpunk: In this predecessor of Cyberpunk novels, the hero was Guy Montag",
+    "Category": "Cyberpunk: In this predecessor of Cyberpunk novels, the hero was Guy Montag",
     "Question": "",
     "Answer": "fahrenheit 451"
   },
   {
-    "Category": "Category: Dandy Candy",
+    "Category": "Dandy Candy",
     "Question": " 'There's no wrong way of eating' this.",
     "Answer": "reeses peanut butter cups"
   },
   {
-    "Category": "Category: DC Secret Identities",
+    "Category": "DC Secret Identities",
     "Question": " Kay Challis",
     "Answer": "crazy jane"
   },
   {
-    "Category": "Category: DC Secret Identities",
+    "Category": "DC Secret Identities",
     "Question": " Maggie Sawyer",
     "Answer": "maggie sawyer"
   },
   {
-    "Category": "Category: Definitions : --isms",
+    "Category": "Definitions : --isms",
     "Question": " The theory that man cannot prove the existence of a god.",
     "Answer": "agnosticism"
   },
   {
-    "Category": "Category: Definitions : -isms",
+    "Category": "Definitions : -isms",
     "Question": " Excessive emphasis on financial gain.",
     "Answer": "commercialism"
   },
   {
-    "Category": "Category: Definitions ",
+    "Category": "Definitions ",
     "Question": " A receptacle for holy water is a(n) ________.",
     "Answer": "font"
   },
   {
-    "Category": "Category: Definitions ",
+    "Category": "Definitions ",
     "Question": " Any object worn as a charm may be called a(n) _______.",
     "Answer": "amulet"
   },
   {
-    "Category": "Category: Definitions ",
+    "Category": "Definitions ",
     "Question": " Doraphobia is the fear of _________.",
     "Answer": "fur"
   },
   {
-    "Category": "Category: Definitions ",
+    "Category": "Definitions ",
     "Question": " Eleutherophobia is a fear of ___________.",
     "Answer": "freedom"
   },
   {
-    "Category": "Category: Definitions : Legal Terms",
+    "Category": "Definitions : Legal Terms",
     "Question": " A crime more serious than a misdemeanor.",
     "Answer": "felony"
   },
   {
-    "Category": "Category: Definitions : Legal Terms",
+    "Category": "Definitions : Legal Terms",
     "Question": " The people chosen to render a verdict in a court.",
     "Answer": "jury"
   },
   {
-    "Category": "Category: Definitions ",
+    "Category": "Definitions ",
     "Question": " The study of man and culture is known as ________.",
     "Answer": "anthropology"
   },
   {
-    "Category": "Category: Definitions : The study of natural phenomena",
+    "Category": "Definitions : The study of natural phenomena",
     "Question": " motion, forces, light, sound, etc. is called ______.",
     "Answer": "physics"
   },
   {
-    "Category": "Category: Definitions ",
+    "Category": "Definitions ",
     "Question": " The study of religion is _________.",
     "Answer": "theology"
   },
   {
-    "Category": "Category: Definitions ",
+    "Category": "Definitions ",
     "Question": " This word is used as the international radio distress call.",
     "Answer": "mayday"
   },
   {
-    "Category": "Category: Definitions ",
+    "Category": "Definitions ",
     "Question": " What is a dried plum called",
     "Answer": "prune"
   },
   {
-    "Category": "Category: Definitions ",
+    "Category": "Definitions ",
     "Question": " What is the common name for a Japanese dwarf tree",
     "Answer": "bonsai"
   },
   {
-    "Category": "Category: Devils Dictionary",
+    "Category": "Devils Dictionary",
     "Question": " A ship big enough to carry two in fair weather, but only one in foul",
     "Answer": "friendship"
   },
   {
-    "Category": "Category: Devils Dictionary",
+    "Category": "Devils Dictionary",
     "Question": " A woman with a fine prospect of happiness behind her",
     "Answer": "bride"
   },
   {
-    "Category": "Category: Dr Seuss",
+    "Category": "Dr Seuss",
     "Question": " The Big-hearted Moose",
     "Answer": "thidwick"
   },
   {
-    "Category": "Category: Dr Seuss",
+    "Category": "Dr Seuss",
     "Question": " This elephant hatched and egg and heard a who",
     "Answer": "horton"
   },
   {
-    "Category": "Category: Easy People",
+    "Category": "Easy People",
     "Question": " Name the queen who tells the stories of _One Thousand and One Nights_.",
     "Answer": "scheherezade"
   },
   {
-    "Category": "Category: Emoticons",
+    "Category": "Emoticons",
     "Question": " (^o^)",
     "Answer": "happiness"
   },
   {
-    "Category": "Category: Emoticons: ",
+    "Category": "Emoticons: ",
     "Question": "D",
     "Answer": "big smile"
   },
   {
-    "Category": "Category: Famous Canadians",
+    "Category": "Famous Canadians",
     "Question": " Known for her series of books about Anne Shirley.",
     "Answer": "lucy maud montgomery"
   },
   {
-    "Category": "Category: Famous Canadians",
+    "Category": "Famous Canadians",
     "Question": " Portly comedian, Second City alum, and CFL franchise co-owner.",
     "Answer": "john candy"
   },
   {
-    "Category": "Category: Famous Gills",
+    "Category": "Famous Gills",
     "Question": " Montreal University that more ore less fits the category.",
     "Answer": "mcgill university"
   },
   {
-    "Category": "Category: Famous People",
+    "Category": "Famous People",
     "Question": " Which actress married Richard Burton twice",
     "Answer": "elizabeth taylor"
   },
   {
-    "Category": "Category: Fashion",
+    "Category": "Fashion",
     "Question": " Model that married David Bowie.",
     "Answer": "iman"
   },
   {
-    "Category": "Category: Fast Food",
+    "Category": "Fast Food",
     "Question": " Chain with a hat as a logo, makes roast beef burgers among other things.",
     "Answer": "arbys"
   },
   {
-    "Category": "Category: Fast Food",
+    "Category": "Fast Food",
     "Question": " Lots of people like this brown liquid with fries.",
     "Answer": "gravy"
   },
   {
-    "Category": "Category: Fast Food",
+    "Category": "Fast Food",
     "Question": " This 'Fresh is the taste' chain is -everywhere-.",
     "Answer": "subway"
   },
   {
-    "Category": "Category: Fictional Detectives",
+    "Category": "Fictional Detectives",
     "Question": " Creator of Perry Mason.",
     "Answer": "erle stanley gardner"
   },
   {
-    "Category": "Category: Food and Drink ",
+    "Category": "Food and Drink ",
     "Question": " Mustard, ketchup and onions on a hotdog are all ___________.",
     "Answer": "condiments"
   },
   {
-    "Category": "Category: Food",
+    "Category": "Food",
     "Question": " Mexican dish with minced and seasoned meat packed in cornmeal and corn husks.",
     "Answer": "tamale"
   },
   {
-    "Category": "Category: French Food AKA",
+    "Category": "French Food AKA",
     "Question": " Delicate egg whites baked at a high temperature, literally means 'a breath'",
     "Answer": "souffle"
   },
   {
-    "Category": "Category: Fun : Cocktails",
+    "Category": "Fun : Cocktails",
     "Question": " Cognac (brandy) and white creme de menthe make a(n) _____________.",
     "Answer": "stinger"
   },
   {
-    "Category": "Category: Games ",
+    "Category": "Games ",
     "Question": " How many balls are used in a game of snooker in addition to the cue ball",
     "Answer": "twenty-one"
   },
   {
-    "Category": "Category: Games ",
+    "Category": "Games ",
     "Question": " Name the only woman suspect in the game of 'Cluedo' who isn't married.",
     "Answer": "miss scarlett"
   },
   {
-    "Category": "Category: General ",
+    "Category": "General ",
     "Question": " At one time, 6 white beads of this Indian currency were worth one penny",
     "Answer": "wampum"
   },
   {
-    "Category": "Category: General ",
+    "Category": "General ",
     "Question": " Baseballer Joe Schlabotnik's greatest fan",
     "Answer": "charlie brown"
   },
   {
-    "Category": "Category: General ",
+    "Category": "General ",
     "Question": " Originally made in Nimes, France, this fabric was called serge denimes",
     "Answer": "denim"
   },
   {
-    "Category": "Category: General ",
+    "Category": "General ",
     "Question": " The 2 months added when the Roman calendar was expanded from 10 to 12 months",
     "Answer": "january & february"
   },
   {
-    "Category": "Category: General ",
+    "Category": "General ",
     "Question": " The Russian sled drawn by 3 horses abreast",
     "Answer": "troika"
   },
   {
-    "Category": "Category: General Knowledge ",
+    "Category": "General Knowledge ",
     "Question": " What is this sign called '&'",
     "Answer": "ampersand"
   },
   {
-    "Category": "Category: Generation X Toys",
+    "Category": "Generation X Toys",
     "Question": " Atari competitor that featured better graphics.",
     "Answer": "intellevision"
   },
   {
-    "Category": "Category: Generation X Toys",
+    "Category": "Generation X Toys",
     "Question": " Large plastic animals gobbled marbles in this game.",
     "Answer": "hungry hungry hippos"
   },
   {
-    "Category": "Category: Geographic Trivia ",
+    "Category": "Geographic Trivia ",
     "Question": " What is the most populous city in North America",
     "Answer": "mexico"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " In what city is the Smithsonian Institute",
     "Answer": "washington"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " In which city is Red Square",
     "Answer": "moscow"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " In which city is the Coliseum located",
     "Answer": "rome"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " Into what body of water does the Danube River flow",
     "Answer": "black sea"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " Linz, Austria is a leading port on which river",
     "Answer": "danube"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " Madrid and Lisbon are both located near this river.",
     "Answer": "tagus"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " Name the continent that consists of a single country.",
     "Answer": "australia"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " Name the longest river in Asia.",
     "Answer": "yangtze"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " On what island is the Blue Grotto",
     "Answer": "capri"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " On what peninsula are Spain and Portugal located",
     "Answer": "the iberia n peninsula"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " On which river is the Aswan High Dam",
     "Answer": "nile"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " The sun sets in the ____",
     "Answer": "west"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What canal connects Lake Ontario and Lake Erie",
     "Answer": "welland"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What city is the Christian Science Monitor based in",
     "Answer": "boston"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What country formed the union of Tanganyika and Zanzibar",
     "Answer": "tanzania"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What English city does the Prime Meridian pass through",
     "Answer": "greenwich"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Andorra",
     "Answer": "andorra la vella"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Angola",
     "Answer": "luanda"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Australia",
     "Answer": "canberra"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Bhutan",
     "Answer": "thimphu"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Colorado",
     "Answer": "denver"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Equatorial Guinea",
     "Answer": "malabo"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Finland",
     "Answer": "helsinki"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Iraq",
     "Answer": "baghdad"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Ireland",
     "Answer": "dublin"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Kuwait",
     "Answer": "kuwait city"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Monaco",
     "Answer": "monaco"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Niger",
     "Answer": "niamey"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Papua New Guinea",
     "Answer": "port moresby"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Solomon Islands",
     "Answer": "honiara"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Switzerland",
     "Answer": "bern"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Tanzania",
     "Answer": "dar es salaam"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Tonga",
     "Answer": "nuku'alofa"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Turkmenistan",
     "Answer": "ashkhabad"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the capital of Tuvalu",
     "Answer": "fanafuti"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the highest mountain in Canada",
     "Answer": "mt. logan"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the largest of the countries in Central America",
     "Answer": "nicaragua"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What is the official language of Egypt",
     "Answer": "arabic"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What mountain range separates Europe from Asia",
     "Answer": "urals"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " What U.S. state is known as The Land of 10,000 Lakes",
     "Answer": "minnesota"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " Where is Beacon Street",
     "Answer": "boston"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " Which Central American country extends furthest north",
     "Answer": "belize"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " Which city is known as Motown",
     "Answer": "detroit"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " Which element makes up 2.83% of the Earth's crust",
     "Answer": "sodium"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " Which element makes up 5% of the Earth's crust",
     "Answer": "iron"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " Which Irish city is famous for its crystal",
     "Answer": "waterford"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " Which is the Earth's fourth largest continent",
     "Answer": "south america"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " Which state is the Garden State",
     "Answer": "new jersey"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " Which U.S. city is known as the Biggest Little City in the World",
     "Answer": "reno"
   },
   {
-    "Category": "Category: Geography ",
+    "Category": "Geography ",
     "Question": " Which U.S. state borders a Canadian territory",
     "Answer": "alaska"
   },
   {
-    "Category": "Category: Geogrpahy ",
+    "Category": "Geogrpahy ",
     "Question": " Name the capital city of Utah.",
     "Answer": "salt lake city"
   },
   {
-    "Category": "Category: Geology ",
+    "Category": "Geology ",
     "Question": " The violet variety of quartz is called ________.",
     "Answer": "amethyst"
   },
@@ -2797,142 +2789,142 @@
     "Answer": "milwaukee"
   },
   {
-    "Category": "Category: History ",
+    "Category": "History ",
     "Question": " General Sherman burned this city in 1864.",
     "Answer": "atlanta"
   },
   {
-    "Category": "Category: History ",
+    "Category": "History ",
     "Question": " He ruled Rome when Christ was born.",
     "Answer": "caesar augustus"
   },
   {
-    "Category": "Category: History ",
+    "Category": "History ",
     "Question": " In what year of WW II did Russia declare war on Japan",
     "Answer": "1945"
   },
   {
-    "Category": "Category: History ",
+    "Category": "History ",
     "Question": " In which country did the Boxer Rebellion take place",
     "Answer": "china"
   },
   {
-    "Category": "Category: History ",
+    "Category": "History ",
     "Question": " Israel occupied the Golan Heights. Whose territory was it",
     "Answer": "syria"
   },
   {
-    "Category": "Category: History ",
+    "Category": "History ",
     "Question": " Name the incident in which tea was dumped into the harbour.",
     "Answer": "boston tea party"
   },
   {
-    "Category": "Category: History ",
+    "Category": "History ",
     "Question": " This military attack took place on Dec. 7, 1941.",
     "Answer": "pearl harbour"
   },
   {
-    "Category": "Category: History ",
+    "Category": "History ",
     "Question": " U.S. President, Herbert C. _________.",
     "Answer": "hoover"
   },
   {
-    "Category": "Category: History ",
+    "Category": "History ",
     "Question": " What was the instrument of execution during the 'Reign of Terror'",
     "Answer": "guillotine"
   },
   {
-    "Category": "Category: History ",
+    "Category": "History ",
     "Question": " Which military battle took place in 1815",
     "Answer": "waterloo"
   },
   {
-    "Category": "Category: History ",
+    "Category": "History ",
     "Question": " Which president was responsible for the Louisiana Purchase",
     "Answer": "jefferson"
   },
   {
-    "Category": "Category: History ",
+    "Category": "History ",
     "Question": " Who succeeded Churchill when he resigned in 1955",
     "Answer": "sir anthony eden"
   },
   {
-    "Category": "Category: Hitchhiker Guide",
+    "Category": "Hitchhiker Guide",
     "Question": " Author of the _Hitchhiker's Guide to the Galaxy_ series.",
     "Answer": "douglas adams"
   },
   {
-    "Category": "Category: Hitchhiker Guide",
+    "Category": "Hitchhiker Guide",
     "Question": " If you stick it in your ear,it acts as a translator by feeding on brain energy.",
     "Answer": "babel fish"
   },
   {
-    "Category": "Category: Hitchhiker Guide",
+    "Category": "Hitchhiker Guide",
     "Question": " Name of the Paranoid Android.",
     "Answer": "marvin"
   },
   {
-    "Category": "Category: Holidays",
+    "Category": "Holidays",
     "Question": " Mithraism's (Sun God worship) big day falls on the same day as this holiday.",
     "Answer": "christmas"
   },
   {
-    "Category": "Category: Hollywood ",
+    "Category": "Hollywood ",
     "Question": " Charles Laughton played Quasimodo in this epic film.",
     "Answer": "hunchback of notre dame"
   },
   {
-    "Category": "Category: Hollywood : Film Title",
+    "Category": "Hollywood : Film Title",
     "Question": " Fahrenheit ________ (a number).",
     "Answer": "451"
   },
   {
-    "Category": "Category: Hollywood ",
+    "Category": "Hollywood ",
     "Question": " Forrest ____ liked shrimp.",
     "Answer": "gump"
   },
   {
-    "Category": "Category: Hollywood ",
+    "Category": "Hollywood ",
     "Question": " He directed the movie E.T.",
     "Answer": "stephen spielberg"
   },
   {
-    "Category": "Category: Hollywood ",
+    "Category": "Hollywood ",
     "Question": " In 'Gone With the Wind', Scarlett regains her wealth by investing in what type of business",
     "Answer": "sawmill"
   },
   {
-    "Category": "Category: Hollywood ",
+    "Category": "Hollywood ",
     "Question": " This was the first cartoon talking picture.",
     "Answer": "steamboat willie"
   },
   {
-    "Category": "Category: Hollywood ",
+    "Category": "Hollywood ",
     "Question": " What is the name of the Volkswagen in the film, 'The Love Bug'",
     "Answer": "herbie"
   },
   {
-    "Category": "Category: Hollywood ",
+    "Category": "Hollywood ",
     "Question": " What was Dorothy's last name in 'The Wizard of Oz'",
     "Answer": "gale"
   },
   {
-    "Category": "Category: Hollywood ",
+    "Category": "Hollywood ",
     "Question": " What was the first film directed by Robert Redford",
     "Answer": "ordinary people"
   },
   {
-    "Category": "Category: Hollywood ",
+    "Category": "Hollywood ",
     "Question": " Which character in 'Forrest Gump' loved shrimp",
     "Answer": "bubba"
   },
   {
-    "Category": "Category: Hollywood ",
+    "Category": "Hollywood ",
     "Question": " Which planet was the 'Planet of the Apes'",
     "Answer": "earth"
   },
   {
-    "Category": "Category: Hollywood ",
+    "Category": "Hollywood ",
     "Question": " Who played Brad Pitt's cop partner in the movie 'Seven'",
     "Answer": "morgan freeman"
   },
@@ -2942,262 +2934,262 @@
     "Answer": "french and japanese"
   },
   {
-    "Category": "Category: Intl Beers: Prestige Stout",
+    "Category": "Intl Beers: Prestige Stout",
     "Question": "",
     "Answer": "haiti"
   },
   {
-    "Category": "Category: Junk Food",
+    "Category": "Junk Food",
     "Question": " Puffy white soft pillows of sugar; good raw or roasted over a campfire",
     "Answer": "marshmallows"
   },
   {
-    "Category": "Category: Junk Food: Soft drink with the slogan",
+    "Category": "Junk Food: Soft drink with the slogan",
     "Question": " 'For a new generation'",
     "Answer": "pepsi"
   },
   {
-    "Category": "Category: Junk Food",
+    "Category": "Junk Food",
     "Question": " The southern (U.S.) word for these are 'goobers'",
     "Answer": "peanuts"
   },
   {
-    "Category": "Category: Kids in the Hall",
+    "Category": "Kids in the Hall",
     "Question": " A Mark McKinney character says 'I'm _ your head!'",
     "Answer": "crushing"
   },
   {
-    "Category": "Category: Langauge : Many Meanings",
+    "Category": "Langauge : Many Meanings",
     "Question": " Fuel, vapor, flattulence, helium. What is it",
     "Answer": "gas"
   },
   {
-    "Category": "Category: Languages ",
+    "Category": "Languages ",
     "Question": " What ONE word fits ____stream; ____hill; _____pour.",
     "Answer": "down"
   },
   {
-    "Category": "Category: Literature : From which Shakespeare play is this line taken",
+    "Category": "Literature : From which Shakespeare play is this line taken",
     "Question": " To be or not to",
     "Answer": "hamlet"
   },
   {
-    "Category": "Category: Literature ",
+    "Category": "Literature ",
     "Question": " This Shakespearean king was the actual king of Scotland for 17 years.",
     "Answer": "macbeth"
   },
   {
-    "Category": "Category: Lord of the Rings",
+    "Category": "Lord of the Rings",
     "Question": " From whom did Bilbo obtain The Ring",
     "Answer": "gollum"
   },
   {
-    "Category": "Category: Made In Canada: James Labrie's band previous to Dream Theater",
+    "Category": "Made In Canada: James Labrie's band previous to Dream Theater",
     "Question": "",
     "Answer": "winter rose"
   },
   {
-    "Category": "Category: Magazines",
+    "Category": "Magazines",
     "Question": " This magazine used to boast a circulation of 7,777,777.",
     "Answer": "better homes and gardens"
   },
   {
-    "Category": "Category: Mathematics ",
+    "Category": "Mathematics ",
     "Question": " The angles inside a square total _______ degrees.",
     "Answer": "360"
   },
   {
-    "Category": "Category: Medicine ",
+    "Category": "Medicine ",
     "Question": " A bone specialist is a(n) ________.",
     "Answer": "osteopath"
   },
   {
-    "Category": "Category: Medicine ",
+    "Category": "Medicine ",
     "Question": " A loss of memory is known as __________.",
     "Answer": "amnesia"
   },
   {
-    "Category": "Category: Medicine ",
+    "Category": "Medicine ",
     "Question": " Hepatitis affects the __________.",
     "Answer": "liver"
   },
   {
-    "Category": "Category: Medicine ",
+    "Category": "Medicine ",
     "Question": " How many pints of blood does the average human have in his/her body",
     "Answer": "twelve"
   },
   {
-    "Category": "Category: Medicine ",
+    "Category": "Medicine ",
     "Question": " Name the largest artery in the human body.",
     "Answer": "aorta"
   },
   {
-    "Category": "Category: Misc Games",
+    "Category": "Misc Games",
     "Question": " How much is the luxury tax (in dollars) in Monopoly",
     "Answer": "75"
   },
   {
-    "Category": "Category: Misc Games",
+    "Category": "Misc Games",
     "Question": " Word derived from 'shah mat', from the arabic for 'the king is dead'",
     "Answer": "checkmate"
   },
   {
-    "Category": "Category: Music ",
+    "Category": "Music ",
     "Question": " The Who's rock musical stars Elton John. It's called ________.",
     "Answer": "tommy"
   },
   {
-    "Category": "Category: Mythology ",
+    "Category": "Mythology ",
     "Question": " The sea gods had a three-pronged spear called a(n) ________.",
     "Answer": "trident"
   },
   {
-    "Category": "Category: Mythology ",
+    "Category": "Mythology ",
     "Question": " What's heaven to fallen Norse warriors",
     "Answer": "valhalla"
   },
   {
-    "Category": "Category: Name That Celebrity",
+    "Category": "Name That Celebrity",
     "Question": " Author of The Hobbit and The Lord of the Rings",
     "Answer": "j.r.r. tolkein"
   },
   {
-    "Category": "Category: Name The Poet",
+    "Category": "Name The Poet",
     "Question": " The Branch Will Not Break",
     "Answer": "james wright"
   },
   {
-    "Category": "Category: Name Their Job",
+    "Category": "Name Their Job",
     "Question": " Harold Stassen",
     "Answer": "mayor"
   },
   {
-    "Category": "Category: National Anthems",
+    "Category": "National Anthems",
     "Question": " ...At your feet, two oceans roar for your noble mission.",
     "Answer": "panama"
   },
   {
-    "Category": "Category: Nature ",
+    "Category": "Nature ",
     "Question": " A one-humped camel is called a _________.",
     "Answer": "dromedary"
   },
   {
-    "Category": "Category: Nature ",
+    "Category": "Nature ",
     "Question": " A terrapin is a type of _________.",
     "Answer": "turtle"
   },
   {
-    "Category": "Category: Nature ",
+    "Category": "Nature ",
     "Question": " An animal is a fish if it has _________.",
     "Answer": "gill"
   },
   {
-    "Category": "Category: Nature ",
+    "Category": "Nature ",
     "Question": " Dogs bark. What do donkeys do",
     "Answer": "bray"
   },
   {
-    "Category": "Category: Nature ",
+    "Category": "Nature ",
     "Question": " The fins of which fish are made into a soup",
     "Answer": "shark"
   },
   {
-    "Category": "Category: Nature ",
+    "Category": "Nature ",
     "Question": " This animal is the symbol of the U.S. Democratic Party.",
     "Answer": "donkey"
   },
   {
-    "Category": "Category: Nature ",
+    "Category": "Nature ",
     "Question": " This animal's shell is used to make attractive jewelry.",
     "Answer": "abalone"
   },
   {
-    "Category": "Category: Nature ",
+    "Category": "Nature ",
     "Question": " This ugly creature has patches of red on his rear-end.",
     "Answer": "mandrill"
   },
   {
-    "Category": "Category: Nature ",
+    "Category": "Nature ",
     "Question": " What does a camel store in its hump",
     "Answer": "fat"
   },
   {
-    "Category": "Category: Nature ",
+    "Category": "Nature ",
     "Question": " What is a male swine called",
     "Answer": "boar"
   },
   {
-    "Category": "Category: Nature ",
+    "Category": "Nature ",
     "Question": " What large herbivore sleeps only one hour a night",
     "Answer": "antelope"
   },
   {
-    "Category": "Category: Nature ",
+    "Category": "Nature ",
     "Question": " What word is used for a male duck",
     "Answer": "drake"
   },
   {
-    "Category": "Category: NetHack",
+    "Category": "NetHack",
     "Question": " This tool will instantly get your pets around you.",
     "Answer": "magic whistle"
   },
   {
-    "Category": "Category: Novelty Songs",
+    "Category": "Novelty Songs",
     "Question": " Type of car outpacing the Cadillac in 'Beep Beep'",
     "Answer": "nash rambler"
   },
   {
-    "Category": "Category: Original Titles",
+    "Category": "Original Titles",
     "Question": " The Whale by Herman Melville",
     "Answer": "moby dick"
   },
   {
-    "Category": "Category: Peanuts Comics",
+    "Category": "Peanuts Comics",
     "Question": " The catcher on the gang's baseball team.",
     "Answer": "schroeder"
   },
   {
-    "Category": "Category: Peanuts Comics",
+    "Category": "Peanuts Comics",
     "Question": " This is what Marci calls Peppermint Patti.",
     "Answer": "sir"
   },
   {
-    "Category": "Category: People",
+    "Category": "People",
     "Question": " Director of the FBI who lived from 1895-1972.",
     "Answer": "j. edgar hoover"
   },
   {
-    "Category": "Category: People",
+    "Category": "People",
     "Question": " First female cabinet member.",
     "Answer": "oveta hobby"
   },
   {
-    "Category": "Category: Phonetic Radio Call Signs",
+    "Category": "Phonetic Radio Call Signs",
     "Question": " DRKSKY",
     "Answer": "delta romeo kilo sierra kilo yankee"
   },
   {
-    "Category": "Category: Pinball",
+    "Category": "Pinball",
     "Question": " Rudy the dummy says 'It's only pinball!' in this 1991 machine",
     "Answer": "funhouse"
   },
   {
-    "Category": "Category: Pinball",
+    "Category": "Pinball",
     "Question": " This mammoth 1979 Atari game featured a pool-ball sized pinball",
     "Answer": "hercules"
   },
   {
-    "Category": "Category: Potpourri",
+    "Category": "Potpourri",
     "Question": " First state to secede from the Union in 1861",
     "Answer": "south carolina"
   },
   {
-    "Category": "Category: Potpourri",
+    "Category": "Potpourri",
     "Question": " The worlds first drive-in church was in this state",
     "Answer": "florida"
   },
   {
-    "Category": "Category: Potpourri",
+    "Category": "Potpourri",
     "Question": " This Greek admiral of Darius I sailed upto the the Indus river in the 5thc",
     "Answer": "scylax"
   },
@@ -3207,112 +3199,112 @@
     "Answer": "bailey white"
   },
   {
-    "Category": "Category: Quotes",
+    "Category": "Quotes",
     "Question": " 'A cynic is someone who knows the price of everything and the value of nothing.",
     "Answer": "wilde"
   },
   {
-    "Category": "Category: Quotes",
+    "Category": "Quotes",
     "Question": " How do I love thee?",
     "Answer": "elizabeth browning"
   },
   {
-    "Category": "Category: Religion ",
+    "Category": "Religion ",
     "Question": " Followers of the Unification Church are called ________.",
     "Answer": "moonies"
   },
   {
-    "Category": "Category: Religion ",
+    "Category": "Religion ",
     "Question": " Name the holiest day in the Jewish calendar.",
     "Answer": "yom kippur"
   },
   {
-    "Category": "Category: Say Cheese",
+    "Category": "Say Cheese",
     "Question": " Norwegian origin; caramel flavor; sandwich, snack.",
     "Answer": "gjetost"
   },
   {
-    "Category": "Category: Say Cheese",
+    "Category": "Say Cheese",
     "Question": " Probably French origin; tangy, sharp; appetizer, salad, dessert.",
     "Answer": "blue"
   },
   {
-    "Category": "Category: Say Cheese",
+    "Category": "Say Cheese",
     "Question": " Swiss origin; nutty, sharper than Swiss; cooking, dessert.",
     "Answer": "gruyere"
   },
   {
-    "Category": "Category: Scents",
+    "Category": "Scents",
     "Question": " Charlie and Jontue manufacturer",
     "Answer": "revlon"
   },
   {
-    "Category": "Category: Sci Fi Authors",
+    "Category": "Sci Fi Authors",
     "Question": " Creator of the Meg & Timothy series...",
     "Answer": "madeleine lengle"
   },
   {
-    "Category": "Category: Sci Fi Authors",
+    "Category": "Sci Fi Authors",
     "Question": " Nancy _r_ss",
     "Answer": "nancy kress"
   },
   {
-    "Category": "Category: Sci Fi Authors",
+    "Category": "Sci Fi Authors",
     "Question": " Ursula Le____",
     "Answer": "ursula leguin"
   },
   {
-    "Category": "Category: Sci Fi",
+    "Category": "Sci Fi",
     "Question": " L. Ron Hubbard began writing this series but died before finishing.",
     "Answer": "mission earth"
   },
   {
-    "Category": "Category: Sci Fi",
+    "Category": "Sci Fi",
     "Question": " Publisher who used to write sci-fi short stories, Lester ___ ___.",
     "Answer": "del rey"
   },
   {
-    "Category": "Category: Sci Fi",
+    "Category": "Sci Fi",
     "Question": " The number of Rama spacecraft to reach the solar system",
     "Answer": "three"
   },
   {
-    "Category": "Category: Science ",
+    "Category": "Science ",
     "Question": " Ethylene glycol is frequently used in automobiles.. How",
     "Answer": "anti-freeze"
   },
   {
-    "Category": "Category: Science ",
+    "Category": "Science ",
     "Question": " The filament of a regular light bulb is usually made of ________.",
     "Answer": "tungsten"
   },
   {
-    "Category": "Category: Science ",
+    "Category": "Science ",
     "Question": " The name for the Russian equivalent of Skylab is ________.",
     "Answer": "salyut"
   },
   {
-    "Category": "Category: Science ",
+    "Category": "Science ",
     "Question": " The vernal equinox is the beginning of ________.",
     "Answer": "spring"
   },
   {
-    "Category": "Category: Second City ",
+    "Category": "Second City ",
     "Question": " Rabat-Sale",
     "Answer": "morocco"
   },
   {
-    "Category": "Category: Sherlock Holmes",
+    "Category": "Sherlock Holmes",
     "Question": " 'The five orange pips' saw Holmes oppose this racist organization",
     "Answer": "ku klux klan"
   },
   {
-    "Category": "Category: Sherlock Holmes",
+    "Category": "Sherlock Holmes",
     "Question": " This famous thriller writer was Dr Watson in the '32 film The Sign of Four",
     "Answer": "ian fleming"
   },
   {
-    "Category": "Category: Sherlock Holmes",
+    "Category": "Sherlock Holmes",
     "Question": " To where does Holmes finally retire?",
     "Answer": "sussex downs"
   },
@@ -3322,447 +3314,407 @@
     "Answer": "personal pan"
   },
   {
-    "Category": "Category: Snow Crash",
+    "Category": "Snow Crash",
     "Question": " Name the book's main character",
     "Answer": "hiro protagonist"
   },
   {
-    "Category": "Category: Snow Crash: Name the hacker who is infected with Snow Crash, owner of The Black Sun",
+    "Category": "Snow Crash: Name the hacker who is infected with Snow Crash, owner of The Black Sun",
     "Question": "",
     "Answer": "da5id"
   },
   {
-    "Category": "Category: Snow Crash",
+    "Category": "Snow Crash",
     "Question": " What is the language spoken by taxi drivers?",
     "Answer": "taxilinga"
   },
   {
-    "Category": "Category: Snow Crash",
+    "Category": "Snow Crash",
     "Question": " What is your image or icon called in the metaverse?",
     "Answer": "avatar"
   },
   {
-    "Category": "Category: Snow Crash",
+    "Category": "Snow Crash",
     "Question": " What security company arrests Y.T. at the beginning of the book?",
     "Answer": "metacops"
   },
   {
-    "Category": "Category: Sport : Baseball",
+    "Category": "Sport : Baseball",
     "Question": " The Toronto _________.",
     "Answer": "bluejays"
   },
   {
-    "Category": "Category: Sport : Basketball",
+    "Category": "Sport : Basketball",
     "Question": " The Denver _________.",
     "Answer": "nuggets"
   },
   {
-    "Category": "Category: Sport : Football",
+    "Category": "Sport : Football",
     "Question": " The Baltimore ________.",
     "Answer": "colts"
   },
   {
-    "Category": "Category: Sport : Hockey",
+    "Category": "Sport : Hockey",
     "Question": " The Los Angeles ________.",
     "Answer": "kings"
   },
   {
-    "Category": "Category: Sport ",
-    "Question": " How many games must you win to win a normal set in tennis",
-    "Answer": "six"
-  },
-  {
-    "Category": "Category: Sport ",
-    "Question": " How many players are there on a water polo team",
-    "Answer": "seven"
-  },
-  {
-    "Category": "Category: Sport ",
+    "Category": "Sport ",
     "Question": " In which sport is the term 'wishbone' used",
     "Answer": "football"
   },
   {
-    "Category": "Category: Sport ",
+    "Category": "Sport ",
     "Question": " In which sport is the term, 'Hang ten' used",
     "Answer": "surfing"
   },
   {
-    "Category": "Category: Sport ",
-    "Question": " What do the letters ERA mean in baseball",
-    "Answer": "earned run average"
-  },
-  {
-    "Category": "Category: Sport ",
-    "Question": " What sport has a hooker in a scrum",
-    "Answer": "rugby"
-  },
-  {
-    "Category": "Category: Sport ",
-    "Question": " Which is the only position in soccer allowed to handle the ball",
-    "Answer": "goalie"
-  },
-  {
-    "Category": "Category: Sports ",
-    "Question": " Where were the 1920 Olympics held",
-    "Answer": "antwerp, belgium"
-  },
-  {
-    "Category": "Category: Sports Actors",
-    "Question": " Besides Field of Dreams, what other baseball movie starred Kevin Costner",
-    "Answer": "bull durham"
-  },
-  {
-    "Category": "Category: Stephen King",
+    "Category": "Stephen King",
     "Question": " Maine city which King calls his home",
     "Answer": "bangor"
   },
   {
-    "Category": "Category: Stephen King",
+    "Category": "Stephen King",
     "Question": " Short story featuring a home-made, magic computer?",
     "Answer": "word processor of the gods"
   },
   {
-    "Category": "Category: Stephen King",
+    "Category": "Stephen King",
     "Question": " What trail of Harold's does Stu Redmen follow cross country in the Stand",
     "Answer": "snickers bar wrappers"
   },
   {
-    "Category": "Category: The Bible",
+    "Category": "The Bible",
     "Question": " The Nebuchadnezzar king was of this nation.",
     "Answer": "babylon"
   },
   {
-    "Category": "Category: The Bible",
+    "Category": "The Bible",
     "Question": " This part of King Saul's belongings was displayed in the temple of Dagon",
     "Answer": "his head"
   },
   {
-    "Category": "Category: The Royal Family",
+    "Category": "The Royal Family",
     "Question": " Prince Charles's title.",
     "Answer": "prince of wales"
   },
   {
-    "Category": "Category: Toys Games",
+    "Category": "Toys Games",
     "Question": " Eva Gabor and Johnny Carson popularized this game by climbing over each other.",
     "Answer": "twister"
   },
   {
-    "Category": "Category: Toys Games",
+    "Category": "Toys Games",
     "Question": " In this game players take turns placing disks on an 8x8 board.",
     "Answer": "othello"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Anzac troops come from which 2 countries",
     "Answer": "australia and new zealand"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " At the time of Julius Caesar, who was the ruler of Egypt",
     "Answer": "cleopatra"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Chemically pure gold contains how many karats;twenty four",
     "Answer": "24"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " From what is velvet made",
     "Answer": "silk"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " How is Samuel Clemens better known",
     "Answer": "mark twain"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " How is the mathematically related structure of beads strung on parallel wires in a rectangular frame better known",
     "Answer": "abacus"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " How many bits are in a nibble",
     "Answer": "4"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " How many faces has an icosahedron;twenty",
     "Answer": "20"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " How many gold medals did Jesse Owens win in the 1936 Berlin Olympics;four",
     "Answer": "4"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " How many seconds are in a day ",
     "Answer": "86400"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " In 'Star Trek', what colour was Mr Spock's blood",
     "Answer": "green"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " In ancient Egypt which animal was considered sacred",
     "Answer": "cat"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " In the Gregorian calendar after 10,000 years by how many days will the calendar be wrong by ",
     "Answer": "three"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " In the period 978-1016 England was ruled by which 'Unready' king",
     "Answer": "ethelred"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " In which US city is the Sears tower",
     "Answer": "chicago"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " In which year was the Rosetta stone written",
     "Answer": "196 bc"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Jonquil is a shade of which colour",
     "Answer": "yellow"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Most people wear a watch on their ____ wrist.",
     "Answer": "left"
   },
   {
-    "Category": "Category: Trivia : Similes",
+    "Category": "Trivia : Similes",
     "Question": " As cute as a(n) ________.",
     "Answer": "button"
   },
   {
-    "Category": "Category: Trivia : Similes",
+    "Category": "Trivia : Similes",
     "Question": " As graceful as a(n) _________.",
     "Answer": "swan"
   },
   {
-    "Category": "Category: Trivia : Similes",
+    "Category": "Trivia : Similes",
     "Question": " As pale as a(n) ___________.",
     "Answer": "ghost"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " The book 'Wamyouruijoshou' was the first to use what word",
     "Answer": "kite"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " The term Septiquinquennial represents how many years",
     "Answer": "75"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " The term Sesquincentennial represents how many years",
     "Answer": "150"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " What are noctilucent, cirrus, and cirrostratus categories of",
     "Answer": "clouds"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " What city was founded in 753 BC",
     "Answer": "rome"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " What did Temujin change his name to",
     "Answer": "genghis khan"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " What does the ancient Greek word 'electron' mean",
     "Answer": "amber"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " What is Harry Houdini famous for being",
     "Answer": "escapologist"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " What is the fastest growing species of grass",
     "Answer": "bamboo"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " What is the square root of -1 ",
     "Answer": "i"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " What is the state capital of Florida",
     "Answer": "tallahassee"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " What name is given to a settlement which is clustered around a central point",
     "Answer": "nucleated"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " What name is given to the point where a river starts",
     "Answer": "source"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " What religion was founded by Lao-tzu",
     "Answer": "taoism"
   },
   {
-    "Category": "Category: Trivia ",
-    "Question": " What sport is governed by the rules drafted by the Marquis of Queensbury",
-    "Answer": "boxing"
-  },
-  {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " What was Citizen Kane's first name",
     "Answer": "charles"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " What was the first transatlantic radio message sent ",
     "Answer": "s"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " When was the Rosetta stone found",
     "Answer": "1799"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Where are the great Walls of Babylon located in the modern day world",
     "Answer": "iraq"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Which American state is known as the Lone Star State",
     "Answer": "texas"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Which artificial fiber was invented in 1938",
     "Answer": "nylon"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Which famous piece of artwork depcits the Battle of Hastings",
     "Answer": "bayeux tapestry"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Which group of people elect the pope",
     "Answer": "cardinals"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Which group was formed in 1972 by Don Henley and Glen Fry",
     "Answer": "the eagles"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Which living bird has the longest wingspan",
     "Answer": "the albatross"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Which part of a cat's eye reflects light",
     "Answer": "tapetum"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Which people's republic stands between the Bay of Bengal and the foothills of the Himalayas, bordered by India and Burma",
     "Answer": "bangladesh"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Which U.S City is the home of the Mowton Record Company",
     "Answer": "detroit"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Which word is used to mean, malicious enjoyment at the misfortunes of others",
     "Answer": "schadenfreude"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Who appears on the 10,000 dollar (US) note",
     "Answer": "salmon chase"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Who does the statue, the Colossus of Rhodes, depict",
     "Answer": "helios"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Who invented Tetris ",
     "Answer": "alexi pazhitnov"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Who invented the toothbrush",
     "Answer": "william addis"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Who painted the ceiling of the Sistine Chapel",
     "Answer": "michelangelo"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Who said 'The greater our knowledge increases, the more our ignorance unfolds'",
     "Answer": "john f. kennedy"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Who was Ancient Egyptian fertility god",
     "Answer": "min"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Who was the first man to reach the North Pole",
     "Answer": "robert edwin peary"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Who was the first woman to fly the Atlantic alone",
     "Answer": "amelia earhart"
   },
   {
-    "Category": "Category: Trivia ",
+    "Category": "Trivia ",
     "Question": " Who wrote the Belgariad ",
     "Answer": "leigh and david eddings"
   },
   {
-    "Category": "Category: Trivia : Words containing 'ten'",
+    "Category": "Trivia : Words containing 'ten'",
     "Question": " A choice cut of meat.",
     "Answer": "tenderloin"
   },
   {
-    "Category": "Category: UK 50s",
+    "Category": "UK 50s",
     "Question": " The 1951 Festival of Britain was centred on which city?",
     "Answer": "london"
   },
   {
-    "Category": "Category: Vampires",
+    "Category": "Vampires",
     "Question": " Muppet vampire enjoyed doing this.",
     "Answer": "counting"
   },
@@ -6302,10 +6254,6 @@
     "Answer": "kitty"
   },
   {
-    "Question": "In the USA what are the TV equivalent of the Oscars",
-    "Answer": "emmys"
-  },
-  {
     "Question": "In the USA, what is an estate agent known as",
     "Answer": "realtor"
   },
@@ -6328,10 +6276,6 @@
   {
     "Question": "In what country is K2 the world's second-highest mountain",
     "Answer": "pakistan"
-  },
-  {
-    "Question": "In what form are the signals that a normal TV aerial receives",
-    "Answer": "analogue"
   },
   {
     "Question": "In what is food surrounded with dry, hot, circulated air",
@@ -6360,10 +6304,6 @@
   {
     "Question": "In what sport do teams compete for the Swaythling Cup",
     "Answer": "men's table tennis"
-  },
-  {
-    "Question": "In what sport would you use spikes and blocks",
-    "Answer": "athletics"
   },
   {
     "Question": "In what year did Franco come to power",
@@ -6532,10 +6472,6 @@
   {
     "Question": "In which sphere of industry or commerce is the name of Arthur Maiden famous",
     "Answer": "advertising"
-  },
-  {
-    "Question": "In which sport would you find turkeys and spares",
-    "Answer": "ten pin bowling"
   },
   {
     "Question": "In which television series do the characters Doctor Carter and Doctor Benton appear",
@@ -10948,10 +10884,6 @@
     "Answer": "tmesis"
   },
   {
-    "Question": "What document is needed for one to enter a foreign country",
-    "Answer": "passport"
-  },
-  {
     "Question": "What does 'majuba' mean",
     "Answer": "place of rock pidgeons"
   },
@@ -11086,10 +11018,6 @@
   {
     "Question": "What drug is obtained from the poppy plant",
     "Answer": "opium"
-  },
-  {
-    "Question": "What eighties TV show starred Bruce Willis in a detective agency?",
-    "Answer": "Moonlighting"
   },
   {
     "Question": "What event was the interview of the Natural Born Killer, Mickey, to be held during?",
@@ -13031,10 +12959,6 @@
     "Answer": "round"
   },
   {
-    "Question": "What short lived TV western did Rod Serling produce after Twilight Zone",
-    "Answer": "loner"
-  },
-  {
     "Question": "What show did Claire Danes get her start on?",
     "Answer": "My So-Called Life"
   },
@@ -13087,20 +13011,8 @@
     "Answer": "canary"
   },
   {
-    "Question": "What sport do the Kansas City monarchs participate in",
-    "Answer": "baseball"
-  },
-  {
     "Question": "What sport does 'FISA' govern",
     "Answer": "auto racing"
-  },
-  {
-    "Question": "What sport uses barrier stalls",
-    "Answer": "horse racing"
-  },
-  {
-    "Question": "What sport was observed by Captain James Cook in 1771",
-    "Answer": "surfing"
   },
   {
     "Question": "What state has the most workers employed by the travel & tourism industry",
@@ -13181,10 +13093,6 @@
   {
     "Question": "What tropic passes through Mexico",
     "Answer": "cancer"
-  },
-  {
-    "Question": "What TV personality did Doritos commercials?",
-    "Answer": "Jay Leno"
   },
   {
     "Question": "What two characters from Sesame Street got their names from the movie 'It's a Wonderful Life'",
@@ -13401,10 +13309,6 @@
   {
     "Question": "What was the first u.s consumer product sold in the soviet union",
     "Answer": "pepsi cola"
-  },
-  {
-    "Question": "What was the first video Mtv played?",
-    "Answer": "Video Killed the Radio Star"
   },
   {
     "Question": "What was the former German name of the Czech town of Ceske Budejovice",
@@ -14228,10 +14132,6 @@
     "Answer": "dachshund"
   },
   {
-    "Question": "Which drink does Melanie Sykes advertise on TV",
-    "Answer": "boddingtons"
-  },
-  {
     "Question": "Which drug can be extracted from the bark of the cinchona tree",
     "Answer": "quinine"
   },
@@ -14270,10 +14170,6 @@
   {
     "Question": "Which famous museum is in paris, france",
     "Answer": "louvre"
-  },
-  {
-    "Question": "Which famous sporting venue is above NewYorks Pennsylvania Station",
-    "Answer": "madison square gardens"
   },
   {
     "Question": "Which film director's films include 'Midnight Express' and 'Bugsy Malone'",
@@ -14466,10 +14362,6 @@
   {
     "Question": "Which mountain range forms a geographical boundary between Europe and Asia",
     "Answer": "urals"
-  },
-  {
-    "Question": "Which movie about a TV news show won Peter Finch a posthumous Oscar",
-    "Answer": "network"
   },
   {
     "Question": "Which museum now occupies the site of the old Bedlam Hospital in London",
@@ -15907,14 +15799,6 @@
     "Answer": "trumpet"
   },
   {
-    "Question": "With which sport is Chris Evert identified",
-    "Answer": "tennis"
-  },
-  {
-    "Question": "With which sport is Willie Mays associated",
-    "Answer": "baseball"
-  },
-  {
     "Question": "Woollen covering for head and neck",
     "Answer": "balaclava helmet"
   },
@@ -15968,28 +15852,13 @@
   },
   {
     "Category": "Sports & Leisure",
-    "Question": " What New York Yankees captain died when he crashed his plane short of the runway?",
-    "Answer": "Thurman Munson"
-  },
-  {
-    "Category": "Sports & Leisure",
     "Question": " Who said, 'You don't know what a weight it was off my shoulders, a tremendous weight,' on April 8, 1974?",
     "Answer": "Hank Aaron"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " Who arrived on court for a 1973 tennis match in a Chinese rickshaw?",
-    "Answer": "Bobby Riggs"
   },
   {
     "Category": "Science & Nature",
     "Question": " Where was a meal of bacon squares, cookies, peaches, fruit drink and coffee enjoyed on July 20, 1969?",
     "Answer": "the moon"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What character did John Belushi portray at his 'Saturday Night Live' audition?",
-    "Answer": "A samurai warrior"
   },
   {
     "Category": "World",
@@ -16012,11 +15881,6 @@
     "Answer": "Ranch Apocalypse"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What showman unleashed a pint-sized performer on the world?",
-    "Answer": "P.T. Barnum"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " What fungus are dogs taught to sniff out in the Perigord district of France?",
     "Answer": "Truffles"
@@ -16037,29 +15901,9 @@
     "Answer": "John Hancock"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What game show got in gear after Johnny Olsen yelled 'Come on down'?",
-    "Answer": "The Price Is Right"
-  },
-  {
-    "Category": "Arts & Entertainment: What TV show opened",
-    "Question": " 'Once upon a time there were three girls who went to the police academy'?",
-    "Answer": "Charlie's Angels"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What visual condition prevents people from seeing greens properly?",
-    "Answer": "Color blindness"
-  },
-  {
     "Category": "Sports & Leisure",
     "Question": " Who broke Lou Brock's career steals record on May 1, 1991?",
     "Answer": "Rickey Henderson"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What performer pocketed the most cash at 1969's Woodstock?",
-    "Answer": "Jimi Hendrix"
   },
   {
     "Category": "People & Places",
@@ -16077,11 +15921,6 @@
     "Answer": "Jimmy Carter"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " What apt weapon was used in an 1843 duel between two Frenchmen who had argued over billiards?",
-    "Answer": "Billiard balls"
-  },
-  {
     "Category": "World",
     "Question": " What color was a mood ring supposed to turn if its wearer were depressed?",
     "Answer": "Black"
@@ -16097,29 +15936,9 @@
     "Answer": "Alcatraz"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What was the sequel to the book 'Alice In Wonderland'?",
-    "Answer": "Through the Looking Glass"
-  },
-  {
     "Category": "World",
     "Question": " What president-to-be wore one black and one brown shoe on his wedding day?",
     "Answer": "Gerald Ford"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What hit movie spent 10 percent of its budget for the rights to 41 golden oldies?",
-    "Answer": "American Graffiti"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What coin did Patrick Swayze use to perform magical mind-over-matter feats in the movie 'Ghost'?",
-    "Answer": "A penny"
-  },
-  {
-    "Category": "Arts & Entertainment: What movie sees Tom Cruise sound off",
-    "Question": " 'I feel the need, the need for speed'?",
-    "Answer": "Top Gun"
   },
   {
     "Category": "Sports & Leisure",
@@ -16142,11 +15961,6 @@
     "Answer": "Jimmy Connors"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What two sitcoms did Ronnie Howard co-star in before becoming a movie director?",
-    "Answer": "The Andy Griffith Show and Happy Days"
-  },
-  {
     "Category": "World",
     "Question": " What pop song can be heard at the Amsterdam museum that features this artist's paintings?",
     "Answer": "Vincent"
@@ -16160,11 +15974,6 @@
     "Category": "History",
     "Question": " Who had the higher approval rating after a year in office - Ronald Reagan or Bill Clinton?",
     "Answer": "Bill Clinton"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What mythological hero beheaded the Gorgon, Medusa?",
-    "Answer": "Perseus"
   },
   {
     "Category": "World",
@@ -16182,21 +15991,6 @@
     "Answer": "V.I. Lenin's"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What late 'Theatre of Blood' horror actor left behind a $5 million art collection?",
-    "Answer": "Vincent Price"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " Who played and won more singles matches than any other pro tennis player in history?",
-    "Answer": "Martina Navratilova"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What interrupted a World Series showdown between Oakland and San Francisco for 11 days in 1989?",
-    "Answer": "An earthquake"
-  },
-  {
     "Category": "World",
     "Question": " What condiment was heralded in 19th-century ads reading '57 Varieties'?",
     "Answer": "Heinz Ketchup"
@@ -16207,11 +16001,6 @@
     "Answer": "Greg Morris'"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " Who did the Los Angeles Dodgers finally beat in a third trip to the World Series?",
-    "Answer": "The New York Yankees"
-  },
-  {
     "Category": "History",
     "Question": " What president surprised reporters by showing off the scar from his gall bladder surgery?",
     "Answer": "Lyndon B. Johnson"
@@ -16220,16 +16009,6 @@
     "Category": "Sports & Leisure",
     "Question": " What running back did Packers' tackle, Henry Jordan, say was invisible when he ran with the ball?",
     "Answer": "Gale Sayers"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What golfer was famous for hitching up his pants while making one of his final round charges?",
-    "Answer": "Arnold Palmer"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What movie resulted in Arnold Schwarzenegger reportedly receiving a $14 million Gulfstream jet?",
-    "Answer": "Terminator 2"
   },
   {
     "Category": "World",
@@ -16255,11 +16034,6 @@
     "Category": "Science & Nature",
     "Question": " What would be most likely to rock your spacecraft between Mars and Jupiter?",
     "Answer": "Asteroids"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What prop did Will Rogers, the 'cowboy philosopher', use to rope in audiences at the Ziegfeld Follies?",
-    "Answer": "A lasso"
   },
   {
     "Category": "Science & Nature",
@@ -16292,19 +16066,9 @@
     "Answer": "Richard Nixon"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " What pastime was banned in Scotland in 1457 because it took too much time away from archery practice?",
-    "Answer": "Golf"
-  },
-  {
     "Category": "World: Which Marx brother, caught by his wife with a chorus girl, said",
     "Question": " 'I was whispering in her mouth'?",
     "Answer": "Chico"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What golfer hyped Hertz rental cars in TV spots?",
-    "Answer": "Arnold Palmer"
   },
   {
     "Category": "Sports & Leisure",
@@ -16312,24 +16076,9 @@
     "Answer": "Reggie Jackson"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " Who was the first diver to receive perfect scores from all seven judges at an international event?",
-    "Answer": "Greg Louganis"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What quarterback, while serving in Vietnam, threw passes on a makeshift field in Chu Lai?",
-    "Answer": "Roger Staubach"
-  },
-  {
     "Category": "History",
     "Question": " What war saw the future Confederate president head a Mississippi regiment in 1846?",
     "Answer": "The Mexican War"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What Sega video game machine system shares its name with a band once fronted by Phil Collins?",
-    "Answer": "Genesis"
   },
   {
     "Category": "Science & Nature",
@@ -16340,16 +16089,6 @@
     "Category": "World",
     "Question": " What former U.S. president was issued Medicare Card Number 1 in 1965?",
     "Answer": "Harry Truman"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who got to give Liz Taylor a spanking in 'Father of the Bride'?",
-    "Answer": "Spencer Tracy"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who hit No. 1 with a song after her release from a hospital for spinal surgery?",
-    "Answer": "Gloria Gaynor"
   },
   {
     "Category": "World",
@@ -16382,11 +16121,6 @@
     "Answer": "Graceland"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What married woman caused an international scandal while playing Cleopatra in 1962?",
-    "Answer": "Elizabeth Taylor"
-  },
-  {
     "Category": "Sports & Leisure",
     "Question": " What's the rarest poker hand?",
     "Answer": "A royal flush"
@@ -16397,19 +16131,9 @@
     "Answer": "Flushing"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " What movie star had his shooting schedule worked around Los Angeles Lakers home games?",
-    "Answer": "Jack Nicholson"
-  },
-  {
     "Category": "World",
     "Question": " What 1976 role featuring multiple personalities earned Sally Fields an Emmy?",
     "Answer": "Sybil"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What sport are you engaged in if you hang five, bomb out and spend the night with a wahine?",
-    "Answer": "Surfing"
   },
   {
     "Category": "Sports & Leisure",
@@ -16477,16 +16201,6 @@
     "Answer": "He climbed on top of it"
   },
   {
-    "Category": "Arts & Entertainment: What Lewis Carroll work offers this bit of whimsy",
-    "Question": " 'All mimsy were the borogoves, and the mome raths outgrabe'?",
-    "Answer": "Alice's Adventures in Wonderland"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What tennis great wielded an obsolete wooden racket in a failed 1991 comeback attempt?",
-    "Answer": "Bjorn Borg"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " What phenomena's emissions are called 'Hawking radiation' in honor of this physicist?",
     "Answer": "A black hole's"
@@ -16507,29 +16221,9 @@
     "Answer": "The Bullwinkle Show's"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " What first baseman played a major league record 2,130 consecutive games?",
-    "Answer": "Lou Gehrig"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What did Liberace adorn his piano with?",
-    "Answer": "A candelabra"
-  },
-  {
     "Category": "World",
     "Question": " What feline sent out the most autographed 8-by-10 glossies during the early 1970s?",
     "Answer": "Morris the Cat"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who ya gonna call?",
-    "Answer": "Ghostbusters"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " How many of every 10 baseball players who sign pro contracts never play in a major league game?",
-    "Answer": "Nine"
   },
   {
     "Category": "World",
@@ -16562,11 +16256,6 @@
     "Answer": "Kilroy was here"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " What team has failed to win a World Series since selling Babe Ruth to the New York Yankees in 1920?",
-    "Answer": "The Boston Red Sox"
-  },
-  {
     "Category": "People & Places",
     "Question": " What collection of architectural marvels is The Great Pyramid the only modern survivor of?",
     "Answer": "The Seven Wonders of the World"
@@ -16575,11 +16264,6 @@
     "Category": "Science & Nature",
     "Question": " What type of nucleic acid carries hereditary information from generation to generation?",
     "Answer": "DNA"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Where did Peter, Paul and Mary say the answer is in a 1962 song?",
-    "Answer": "Blowin' in the wind"
   },
   {
     "Category": "Sports & Leisure",
@@ -16610,11 +16294,6 @@
     "Category": "Sports & Leisure",
     "Question": " What coating insulates the ice cream in a Baked Alaska from an oven's heat?",
     "Answer": "meringue"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What action star was set to play the Axel Foley role in 'Beverly Hills Cop' but was tagged as too violent?",
-    "Answer": "Sylvester Stallone"
   },
   {
     "Category": "Science & Nature",
@@ -16682,11 +16361,6 @@
     "Answer": "Franklin D. Roosevelt"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " o'keeffe//What artist said that if she could 'paint a flower in a huge scale, you could not ignore its beauty'?",
-    "Answer": "Georgia O'Keeffe"
-  },
-  {
     "Category": "World",
     "Question": " What is more popular name of the symphonic instrument, a 'cor anglais'?",
     "Answer": "A French horn"
@@ -16707,24 +16381,9 @@
     "Answer": "Klingon"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What prop from the movie 'Basic Instinct' fetched $4,125 at a 1993 auction?",
-    "Answer": "The ice pick"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What 1976 chart-topping song did Barry Manilow sing but not write?",
-    "Answer": "I Write the Songs"
-  },
-  {
     "Category": "Sports & Leisure",
     "Question": " What playing card is also called the 'suicide king'?",
     "Answer": "The king of hearts"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What Bonnie Tyler hit, with an astronomical event in it's title, spent a month atop the charts in 1983?",
-    "Answer": "Total Eclipse of the Heart"
   },
   {
     "Category": "Sports & Leisure",
@@ -16782,21 +16441,6 @@
     "Answer": "Tobacco"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " How many copies of the 1856 British Guiana stamp are known to exist?",
-    "Answer": "One"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What country has won the most World Cup soccer titles?",
-    "Answer": "Brazil"
-  },
-  {
-    "Category": "Arts & Entertainment: Who was the philosophical bartender played by Whoopi Goldberg on 'Star Trek",
-    "Question": " The Next Generation'?",
-    "Answer": "Guinan"
-  },
-  {
     "Category": "World",
     "Question": " What's the subtitle of the traditional American song 'I've Been Working On The Railroad'?",
     "Answer": "Someone's in the Kitchen with Dinah"
@@ -16837,16 +16481,6 @@
     "Answer": "The hula hoop"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " How many kids did the sitcom mom have to deal with on 'The Brady Bunch'?",
-    "Answer": "Six"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " How many gold medals did swimmer Mark Spitz win at the 1972 Olympics?",
-    "Answer": "Seven"
-  },
-  {
     "Category": "World",
     "Question": " What city was the first to be terrorized by Godzilla's radioactive bad breath?",
     "Answer": "Tokyo"
@@ -16872,16 +16506,6 @@
     "Answer": "Richard Nixon"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " What Baltimore Orioles pitcher never gave up a grand slam home run in his 3,948 career innings?",
-    "Answer": "Jim Palmer"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who conducted Mozart's memorial service in Vienna?",
-    "Answer": "Antonio Salieri"
-  },
-  {
     "Category": "People & Places",
     "Question": " What country was the British monarch empress of from 1876 until 1901?",
     "Answer": "India"
@@ -16890,11 +16514,6 @@
     "Category": "Science & Nature",
     "Question": " What Culture Club hit song featured a member of the lizard family in it's refrain?",
     "Answer": "Karma Chameleon"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What movie prompted 'Premiere' to put a man on it's cover with the line 'In Your Face'?",
-    "Answer": "The Man Without a Face"
   },
   {
     "Category": "History",
@@ -16917,11 +16536,6 @@
     "Answer": "The Cuban Missile Crisis"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " How long should a well-known but short Chopin waltz last if it's popular title is taken literally?",
-    "Answer": "One minute"
-  },
-  {
     "Category": "World",
     "Question": " What cookie does Nabisco estimate it has made more than 345 billion of since 1912?",
     "Answer": "Oreo Cookies"
@@ -16938,28 +16552,8 @@
   },
   {
     "Category": "Sports & Leisure",
-    "Question": " Who played hoops with Godzilla in a Nike ad?",
-    "Answer": "Charles Barkley"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What character did Dan Aykroyd portray in the movie 'Trading Places'?",
-    "Answer": "Louis Winthorpe III"
-  },
-  {
-    "Category": "Sports & Leisure",
     "Question": " Who's the only golfer to play in U.S. Open tournaments in five different decades?",
     "Answer": "Arnold Palmer"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What 1985 movie did Oprah Winfrey play a large role in, despite having no acting experience?",
-    "Answer": "The Color Purple"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who rode a motorcycle to John Belushi's funeral?",
-    "Answer": "Dan Aykroyd"
   },
   {
     "Category": "Science & Nature",
@@ -17002,26 +16596,6 @@
     "Answer": "Florence Griffith Joyner's"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What screen character discovered a novel new use for a banana in the 1984 movie, 'Beverly Hills Cop'?",
-    "Answer": "Axel Foley"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What musical instrument helped win Jane Campion an Oscar for best original screenplay in 1994?",
-    "Answer": "The piano"
-  },
-  {
-    "Category": "History",
-    "Question": " Whose voice did Al Gore not recognize when she phoned him on 'Larry King Live'?",
-    "Answer": "Tipper Gore's"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What beloved TV sitcom star played a plainclothes nun in the movie, 'Change of Habit'?",
-    "Answer": "Mary Tyler Moore"
-  },
-  {
     "Category": "World",
     "Question": " What 19th-century cartoonist assigned the elephant and the donkey to U.S. political parties?",
     "Answer": "Thomas Nast"
@@ -17042,11 +16616,6 @@
     "Answer": "Iwo Jima"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What 3-D Walt Disney World short movie attraction did Francis Coppola direct?",
-    "Answer": "Captain EO"
-  },
-  {
     "Category": "History",
     "Question": " Whose final resting place did Boris Yeltsin yank the honor guard from in 1993?",
     "Answer": "V.I. Lenin's"
@@ -17055,11 +16624,6 @@
     "Category": "History",
     "Question": " What country did Hitler's troops invade, kicking off World War II?",
     "Answer": "Poland"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What president got stuck in a gondola lift for 45 minutes during a ski trip to Vail, Colorado?",
-    "Answer": "Gerald Ford"
   },
   {
     "Category": "Sports & Leisure",
@@ -17107,11 +16671,6 @@
     "Answer": "Ed Sullivan"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What original 'Not Ready for Prime Time Player' portrayed US president Gerald Ford in skits?",
-    "Answer": "Chevy Chase"
-  },
-  {
     "Category": "Sports & Leisure",
     "Question": " What decathlete competed despite a stress fracture of the right fibula at the 1992 U.S. Olympic trials?",
     "Answer": "Dan O'Brien"
@@ -17137,21 +16696,6 @@
     "Answer": "The Masters"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " Who was given a red Corvette with a special license plate when he set a major league baseball record?",
-    "Answer": "Pete Rose"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What were the names of the two different animals that, as a child star, Roddy McDowell play opposite in 1943 movies?",
-    "Answer": "Lassie and Flicka"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who went double platinum by warbling 'Vaya Con Dios' and 'Indian Love Call' in TV ads?",
-    "Answer": "Slim Whitman"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " What rapid-firing gun did the Union army turn down in 1862?",
     "Answer": "The Gatling gun"
@@ -17164,11 +16708,6 @@
   {
     "Category": "Sports & Leisure",
     "Question": " Who donned size 11 gloves when he wasn't using his giant paws to handle a basketball for the 76ers?",
-    "Answer": "Julius Erving"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " Who became the third pro basketballer to score 30,000 points in his career?",
     "Answer": "Julius Erving"
   },
   {
@@ -17195,16 +16734,6 @@
     "Category": "World",
     "Question": " What 1989 film earned Dan Aykroyd an Oscar nomination as best supporting actor?",
     "Answer": "Driving Miss Daisy"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What coach gave mink stoles to the wives of his players after winning his first NFL title in 1961?",
-    "Answer": "Vince Lombardi"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Which of Madonna's videos drew a stern condemnation from the Vatican in 1989?",
-    "Answer": "Like a Prayer"
   },
   {
     "Category": "People & Places",
@@ -17252,19 +16781,9 @@
     "Answer": "Jellystone Park's"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " Who'd starred in seven of the top 25 highest grossing movies in history by 1994?",
-    "Answer": "Harrison Ford"
-  },
-  {
     "Category": "World",
     "Question": " What physicist is given a 'special thanks' for his synthesized vocals on Pink Floyd's 'Keep Talking'?",
     "Answer": "Stephen Hawking"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What movie did Spencer Tracy complete filming a matter of weeks before he died?",
-    "Answer": "Guess Who's Coming to Dinner"
   },
   {
     "Category": "World",
@@ -17307,11 +16826,6 @@
     "Answer": "Zero"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " Who uttered zingers from the center square of the 'Hollywood Squares' for 12 years?",
-    "Answer": "Paul Lynde"
-  },
-  {
     "Category": "History",
     "Question": " What did the U.S. Post Office use as a symbol before adopting the bald eagle in 1970?",
     "Answer": "A pony express rider"
@@ -17325,16 +16839,6 @@
     "Category": "History",
     "Question": " According to one general, what was 'the first war ever fought without any censorship'?",
     "Answer": "The Vietnam War"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What eight-minute, 36-second hit by Don McLean did WABC call the most-played song of 1971?",
-    "Answer": "American Pie"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What hit song helped the 1986 movie, 'Top Gun', starring Tom Cruise soar?",
-    "Answer": "Take My Breath Away"
   },
   {
     "Category": "Science & Nature",
@@ -17367,16 +16871,6 @@
     "Answer": "Australia's"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What four-word line ended nine classic 'Honeymooners' episodes?",
-    "Answer": "'Baby, you're the greatest'"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who's the most popular novelist putting vampires on the best-seller list?",
-    "Answer": "Anne Rice"
-  },
-  {
     "Category": "People & Places",
     "Question": " What malady made Napoleon uncomfortable in the saddle during the Battle of Waterloo?",
     "Answer": "Hemorrhoids"
@@ -17402,44 +16896,14 @@
     "Answer": "Earth"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What is James Whistler's painting, 'Arrangement in Gray and Black', best known as?",
-    "Answer": "Whistler's Mother"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What 1986 movie earned Spike Lee his first taste of critical acclaim?",
-    "Answer": "She's Gotta Have It"
-  },
-  {
     "Category": "People & Places",
     "Question": " Who raised $25 million on the Australian Stock Exchange to finance the film 'Lightning Jack'?",
     "Answer": "Paul Hogan"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What poet immortalized a famous silversmith's midnight ride to warn that the British were coming?",
-    "Answer": "Henry Wadsworth Longfellow"
-  },
-  {
     "Category": "People & Places",
     "Question": " Who was the first to take off solo in New York and land in Paris?",
     "Answer": "Charles Lindbergh"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What expense-checker did this 'Twin Peaks' agent intone messages to via a microcassette recorder?",
-    "Answer": "Diane"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who planted people in the audience to boo at the premiere of a Mozart opera?",
-    "Answer": "Antonio Salieri"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who earned critical acclaim in 1980 for her suggestive ride on a mechanical bull?",
-    "Answer": "Debra Winger"
   },
   {
     "Category": "Science & Nature",
@@ -17482,11 +16946,6 @@
     "Answer": "Yuri Gagarin's"
   },
   {
-    "Category": "Arts & Entertainment: Who uttered the question",
-    "Question": " 'King Tut, how'd you get so funky? King Tut, did you do the Monkey?'?",
-    "Answer": "Steve Martin"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " What name did the first atomic submarine share with Robert Fulton's 1800 version?",
     "Answer": "Nautilus"
@@ -17512,11 +16971,6 @@
     "Answer": "Cuba"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What fellow artist did Van Gogh threaten with a razor before taking a swipe at himself?",
-    "Answer": "Paul Gauguin"
-  },
-  {
     "Category": "History",
     "Question": " Who changed his name from Vernon Wayne Howell for 'publicity and business purposes'?",
     "Answer": "David Koresh"
@@ -17537,11 +16991,6 @@
     "Answer": "Don Quixote"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " Who was the first man in 56 years to win both springboard and platform diving at the Olympics?",
-    "Answer": "Greg Louganis"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " What independent movie studio shares it's name with a constellation?",
     "Answer": "Orion"
@@ -17550,26 +16999,6 @@
     "Category": "World",
     "Question": " In what movie Eddie Murphy insist his character's name be changed from Willie Biggs to Reggie Hammond?",
     "Answer": "48 Hrs."
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who was the second black star to be in a film grossing over $100 million?",
-    "Answer": "Whoopi Goldberg"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Name one No.1 Michael Jackson hit this is a three-letter word beginning with the letter 'B'",
-    "Answer": "'Ben' or 'Bad'"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What bowling pin is known as the widow?",
-    "Answer": "The ten pin"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " How many thousand cows are needed to supply the NFL with enough footballs for a season?",
-    "Answer": "Three"
   },
   {
     "Category": "People & Places",
@@ -17592,19 +17021,9 @@
     "Answer": "The Trump Princess"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " What Cincinnati Reds catcher could hold seven baseballs in his giant paw?",
-    "Answer": "Johnny Bench"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " What did Steven Hawking say could be formed by something other than the collapse of a star?",
     "Answer": "Black holes"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What's the most famous five-word phrase uttered by Clint Eastwood in the movie 'Sudden Impact'?",
-    "Answer": "Go ahead, make my day"
   },
   {
     "Category": "History",
@@ -17625,16 +17044,6 @@
     "Category": "People & Places",
     "Question": " What department store chain established it's headquarters in the Sears Tower?",
     "Answer": "Sears, Roebuck and Co."
-  },
-  {
-    "Category": "Arts & Entertainment: What black star noted",
-    "Question": " 'I'm funny without drugs. I don't have to sniff cocaine to be funny'?",
-    "Answer": "Eddie Murphy"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What player donned a Baltimore Orioles uniform for a major league record of 23 years?",
-    "Answer": "Brooks Robinson"
   },
   {
     "Category": "Sports & Leisure",
@@ -17667,11 +17076,6 @@
     "Answer": "Al Gore"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What movie put Eddie Murphy on the cover of 'Newsweek' as 'Mr. Box Office' when he was 23?",
-    "Answer": "Beverly Hills Cop"
-  },
-  {
     "Category": "Sports & Leisure",
     "Question": " What city's vendors sell the most teddy bears made in one of their favorite baseballer's image?",
     "Answer": "Minneapolis"
@@ -17692,11 +17096,6 @@
     "Answer": "Four score and seven years"
   },
   {
-    "Category": "World",
-    "Question": " What TV and radio host never enters the studio without his suspenders?",
-    "Answer": "Larry King"
-  },
-  {
     "Category": "People & Places",
     "Question": " What playwright did Muammar Qaddafi insist was 'of Arab origin' in 1989?",
     "Answer": "William Shakespeare"
@@ -17710,11 +17109,6 @@
     "Category": "People & Places",
     "Question": " What country cancelled its May Day parade in 1994 for the first time since 1959, due to lack of money?",
     "Answer": "Cuba"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What five words end Charles Dicken's most famous Christmas story?",
-    "Answer": "God bless us every one"
   },
   {
     "Category": "People & Places",
@@ -17742,11 +17136,6 @@
     "Answer": "Jack Kevorkian"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What renowned reference work did Lon Chaney write an entry on makeup for?",
-    "Answer": "Encyclopaedia Britannica"
-  },
-  {
     "Category": "History",
     "Question": " What White House aide's shredding machine jammed on November 21, 1986?",
     "Answer": "Oliver North's"
@@ -17762,19 +17151,9 @@
     "Answer": "Tracy Austin"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What do most people call 'Waltz Number 314' by Johann Strauss Jr.?",
-    "Answer": "Blue Danube"
-  },
-  {
     "Category": "Sports & Leisure",
     "Question": " Who batted .373 with 47 home runs and 175 RBI the year Babe Ruth hit 60 homers?",
     "Answer": "Lou Gehrig"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What baseball owner was right in assuming midget Eddie Gaedel would walk as a pinch hitter in 1951?",
-    "Answer": "Bill Veeck"
   },
   {
     "Category": "World",
@@ -17822,11 +17201,6 @@
     "Answer": "Jack Nicklaus"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What blonde strutted as a Playboy Club waitress before singing lead vocals on four No. 1 hits?",
-    "Answer": "Deborah Harry"
-  },
-  {
     "Category": "History",
     "Question": " USA President Jimmy Carter, brought together Anwar Sadat and who else at the Camp David peace negotiations?",
     "Answer": "Menachem Begin"
@@ -17843,11 +17217,6 @@
   },
   {
     "Category": "Sports & Leisure",
-    "Question": " Who became the first black member of the Milwaukee Braves, in 1954?",
-    "Answer": "Hank Aaron"
-  },
-  {
-    "Category": "Sports & Leisure",
     "Question": " Who broke baseball's color barrier, inking a contract and starting at first base in 1947?",
     "Answer": "Jackie Robinson"
   },
@@ -17857,24 +17226,9 @@
     "Answer": "Mount Everest"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What children's book introduced the cat that wears a 'Cheshire grin'?",
-    "Answer": "Alice's Adventures in Wonderland"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What hand can a realistic poker player expect to be dealt once every 649,740 hands?",
-    "Answer": "A royal flush"
-  },
-  {
     "Category": "People & Places",
     "Question": " Who was the first woman ever to cross the Atlantic Ocean by airplane?",
     "Answer": "Amellia Earhart"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who got laughs opposite Eddie Murphy in the role of Detective Billy Rosewood?",
-    "Answer": "Judge Reinhold"
   },
   {
     "Category": "Sports & Leisure",
@@ -17895,11 +17249,6 @@
     "Category": "People & Places",
     "Question": " What hill in Athens boasts the Parthenon and other temples?",
     "Answer": "The Acropolis"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What pro figure skater did a Pittsburgh Steelers star marry in 1976?",
-    "Answer": "Jo Jo Starbuck"
   },
   {
     "Category": "World",
@@ -17945,16 +17294,6 @@
     "Category": "World",
     "Question": " What president adorns the double sawbuck?",
     "Answer": "Andrew Jackson"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What 1987 movie earned Cher her first best actress Oscar?",
-    "Answer": "Moonstruck"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What metal is an Olympic gold medal mostly made of?",
-    "Answer": "Silver"
   },
   {
     "Category": "People & Places",
@@ -18185,231 +17524,6 @@
     "Category": "Politics",
     "Question": " In 1998, what country turned 50?",
     "Answer": "Israel"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " Who laid out most of the objects in Object'd world and put them in their proper sections?",
-    "Answer": "Lady Bunny"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " Who does the web site for and maintains the objects in Object'd world?",
-    "Answer": "Casay"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " Who built a merry-go-round that Roland said was the best example of 3.1 features use that he had seen?",
-    "Answer": "Casay"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What 2 very talented AW citizens made a working jack-in-the-box shortly after 3.1 came out?",
-    "Answer": "Casay and Byte Me"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What american state is Alpha World the approximate size of?",
-    "Answer": "California"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " Who is the 'owner' of the CY Award winning town, Horizon City?",
-    "Answer": "sirQus"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What AWCOM world are you likely to find a monthly building contest with the kellee as the host?",
-    "Answer": "AWUniv2"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What company sold the software now known as ActiveWorlds to Circle of Fire Studios?",
-    "Answer": "Worlds, Inc."
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What key is used to look downwards in ActiveWorlds?",
-    "Answer": "Page Down"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " Where would you hear 'Just press the right button' when entering one of the 2 'engine rooms' in this Alpha World, Cy Award winning build?",
-    "Answer": "blur's AW Enterprise build"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " Who created the GZ and world layout of Object'd world?",
-    "Answer": "Daphne"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What would would you visit to see Carre's Cy Award winning 'Fallingwaters' build?",
-    "Answer": "AWUniv"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What was the name of the protagonist (avatar) in Criterion Software's AW 'Cyber Street' battle?",
-    "Answer": "Chappy"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " Where would you find the award-winning VR town called 'Cyberville'?",
-    "Answer": "COFmeta"
-  },
-  {
-    "Category": "Activeworlds: True or False",
-    "Question": " Alpha World never had multi-paned window panels.",
-    "Answer": "False"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What royal title was the nickname given to Lucretia Borgia in Active Worlds?",
-    "Answer": "Duchess"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What group runs the Halloween world called Oct31 that usually opens every year for that spooky holiday?",
-    "Answer": "The Titans"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What does the AW acronym, WOW, stand for?",
-    "Answer": "Women Owning Worlds"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " Name one of the 2 VR groups that are the main sponsors and organizers of the yearly AVATARS Convention?",
-    "Answer": "DigitalSpace and Contact Consortium"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What is the title of the book written by Bruce Damer, aka digigardener in ActiveWorlds?",
-    "Answer": "Avatars"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " Who wrote 'Snow Crash', the book that COFmeta is loosely patterned after?",
-    "Answer": "Neal Stephenson"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " How long are AWTeen's daily weather cycles?",
-    "Answer": "26 hours"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What world is well-known for holding Easter Egg Hunts and Present Hunts for the last 3 or 4 years?",
-    "Answer": "Storage"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " At least how many years has AWBingo been running?",
-    "Answer": "over 2"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What year did the 3D VR program now known as ActiveWorlds first come online?",
-    "Answer": "1995"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What two words appear on a tourist's screen for them to click if they want to become citizens?",
-    "Answer": "Register Now"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What is the title given the welcoming 'officer' that everyone gets greeted by in ActiveWorlds?",
-    "Answer": "Immigration Officer"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What is the title given the 'no, you can't do that' entity that tells you when you encroach on another's property; among other things?",
-    "Answer": "Building Inspector"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " Recently made an historical landmark, what year was The Crackerjack Club in COFmeta world built?",
-    "Answer": "1998"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " Who is the current caretaker of COFMeta?",
-    "Answer": "jupytr"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What company serves as the phone system for Capri City in COFmeta?",
-    "Answer": "Dialpad"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " In last year's Shadowrun 3D contest based in COFmeta, what was the name of the villian?",
-    "Answer": "waldomaniac"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " Who won the AW T-shirt that was signed by some of the 'AW Gods' that attended the 2001 AW Reunion in LasVegas?",
-    "Answer": "Alpengeist"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What is the slogan you are greeted by when you enter COFMeta?",
-    "Answer": "Smile, Enzo loves you"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What is the name of the Bar at the Crackerjack Club in COFmeta?",
-    "Answer": "Kamikazi Bar & Grill"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " Down by the Pawn Shop in Capri City, COFmeta, two bums are talking. What does one of them say about Meta at night?",
-    "Answer": "Meta is so cold at night"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What world did AlphaBit Phalpha and Alpha Phalpha get cyber married in?",
-    "Answer": "Alpha"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What world was created as a 'gate' for customers of the USA's 3rd largest Internet Provider so they could get aquainted with AW?",
-    "Answer": "JunoDome"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " What world allows tourists to play all it's games, including Bingo, but usually offers no prizes?",
-    "Answer": "AWGames"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " Who owns Storage world?",
-    "Answer": "Andras"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " How many languages does the ActiveWorlds browser come in?",
-    "Answer": "13"
-  },
-  {
-    "Category": "Activewolds",
-    "Question": " When is Roland's birthday?",
-    "Answer": "June 25th"
-  },
-  {
-    "Category": "Activewolds",
-    "Question": " What day of the week are games in AWTrivia now held on?",
-    "Answer": "Tuesday"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " Who has done the decorating for holidays in AWBingo worlds for the last 2 years?",
-    "Answer": "Daphne"
-  },
-  {
-    "Category": "Activeworlds",
-    "Question": " When was WildAW opened to the public?",
-    "Answer": "August 13, 2000"
   },
   {
     "Category": "Halloween",
@@ -18972,11 +18086,6 @@
     "Answer": "Digitalis"
   },
   {
-    "Category": "Entertainment",
-    "Question": " What is the appropriate response to the Vulcan salutation, 'Live long and prosper'?",
-    "Answer": "Peace and long life"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " What magical object did ancient alchemysts believe could turn lead into gold?",
     "Answer": "lodestone"
@@ -19080,11 +18189,6 @@
     "Category": "Art & Literature",
     "Question": " What was Sherlock Holmes' brother's name?",
     "Answer": "Mycroft Holmes"
-  },
-  {
-    "Category": "Entertainment",
-    "Question": " Name the specific part of the ship that HAL told Dave Bowman and Frank Poole was about to fail.",
-    "Answer": "AE-35 unit"
   },
   {
     "Category": "Good To Know",
@@ -19722,11 +18826,6 @@
     "Answer": "false"
   },
   {
-    "Category": "Entertainment: TRUE OR FALSE",
-    "Question": " Gene Wilder and Richard Pryor co-starred in Mel Brooks' classic comedy Young Frankenstein.",
-    "Answer": "false"
-  },
-  {
     "Category": "People",
     "Question": " What is Lee J. Cobb's middle name?",
     "Answer": "Jacoby"
@@ -19750,11 +18849,6 @@
     "Category": "Art",
     "Question": " Dominican Frairs of Santa Maria, Milan could dine in the shadow of what masterpiece.",
     "Answer": "The Last Supper"
-  },
-  {
-    "Category": "Entertainment",
-    "Question": " In what state is Andy Griffith's Mayberry located?",
-    "Answer": "North Carolina"
   },
   {
     "Category": "History",
@@ -20037,11 +19131,6 @@
     "Answer": "white"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " What member of the British royal family competed in the 1976 Summer Olympics?",
-    "Answer": "Princess Anne"
-  },
-  {
     "Category": "Colors",
     "Question": " What color are the Majestic mountains in 'America the Beautiful'?",
     "Answer": "Purple"
@@ -20125,11 +19214,6 @@
     "Category": "Miscellaneous",
     "Question": " Wall Streeters called October 29, 1929_____ Tuesday.",
     "Answer": "black"
-  },
-  {
-    "Category": "Entertainment",
-    "Question": " How many times did Bing Crosby and Bob Hope hit the road films?",
-    "Answer": "7"
   },
   {
     "Category": "Colors",
@@ -20332,11 +19416,6 @@
     "Answer": "Mordor"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " Who played hoops with Godzilla in a Nike ad?",
-    "Answer": "Charles Barkley"
-  },
-  {
     "Category": "World: What soul singer said",
     "Question": " 'Hair and teeth. If a man got those two things, he got it all'?",
     "Answer": "James Brown"
@@ -20365,16 +19444,6 @@
     "Category": "History",
     "Question": " What dictator did George Bush accuse of a crime?",
     "Answer": "Saddam Hussein"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who played a fisherman in 1937 and a priest in 1938 to win back-to-back best actor Oscars?",
-    "Answer": "Spencer Tracy"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What TV talk show host did Eddie Murphy give a break to by casting him in 'Coming to America'?",
-    "Answer": "Arsenio Hall"
   },
   {
     "Category": "People & Places",
@@ -20412,11 +19481,6 @@
     "Answer": "Bill Clinton"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What four-letter word does Madonna sing most often, ranking ahead of 'baby' and 'time'?",
-    "Answer": "Love"
-  },
-  {
     "Category": "People & Places",
     "Question": " What war-torn former Olympic city saw Susan Sontag direct 'Waiting for Godot' in 1993?",
     "Answer": "Sarajevo"
@@ -20435,21 +19499,6 @@
     "Category": "History",
     "Question": " Who was the English queen, who had Mary Queen of Scots killed but named Mary's son her successor?",
     "Answer": "Elizabeth I"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What movie did Paramount production head Dawn Steel dub 'a female Rocky'?",
-    "Answer": "Flashdance"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who helmed four of the top 10 highest-grossing movies before finally winning an Oscar for his craft?",
-    "Answer": "Steven Spielberg"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What three-word mantra do Wayne and Garth repeat upon meeting Alice Cooper in 'Wayne's World'?",
-    "Answer": "We're not worthy!"
   },
   {
     "Category": "Science & Nature",
@@ -20487,11 +19536,6 @@
     "Answer": "Free Willy"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What type of enemy jet do potential Top Guns fight?",
-    "Answer": "MiGs"
-  },
-  {
     "Category": "People & Places",
     "Question": " What city rings in the new year with a descending ball or apple?",
     "Answer": "New York"
@@ -20522,11 +19566,6 @@
     "Answer": "Hoovervilles"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " Who broke 93 bones trying to leap 36 cars on his motorcycle at the Astrodome?",
-    "Answer": "Evel Knievel"
-  },
-  {
     "Category": "World",
     "Question": " Which future president would later see an exuberant Sammy Davis Jr. embrace him, from behind?",
     "Answer": "Richard Nixon"
@@ -20542,16 +19581,6 @@
     "Answer": "So off to work I go"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What 6.5-ton attraction was bought from the London Zoo over Queen Victoria's protest?",
-    "Answer": "Jumbo"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What chess piece is second in strength only to the queen?",
-    "Answer": "Rook"
-  },
-  {
     "Category": "History",
     "Question": " Whose heroics were cheered by all but New York City's street maintenance crew in 1927?",
     "Answer": "Charles Lindbergh's"
@@ -20565,11 +19594,6 @@
     "Category": "Science & Nature",
     "Question": " What biblical unit of measure was defined as the length of forearm to fingertip on a grown man?",
     "Answer": "Cubit"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What Led Zeppelin tune was a rewrite of Willie Dixon's 'You Need Love'?",
-    "Answer": "Whole Lotta Love"
   },
   {
     "Category": "Science & Nature",
@@ -20617,19 +19641,9 @@
     "Answer": "Beijing"
   },
   {
-    "Category": "Arts & Entertainment: What 'Saturday Night Live' character's signature line was",
-    "Question": " 'Well, isn't that special?'",
-    "Answer": "Church Lady's"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " What prevented Alexander Graham Bell from using the telephone to speak to his wife?",
     "Answer": "Her deafness"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What precocious preteen on 'Saturday Night Live' sat in an oversized rocking chair?",
-    "Answer": "Edith Ann"
   },
   {
     "Category": "World",
@@ -20672,34 +19686,14 @@
     "Answer": "Kangaroo"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What Gloria Gaynor chart-topper was originally the 'B' side of the single 'Substitute'?",
-    "Answer": "I Will Survive"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What's the name of the classic two-volume compendium from Rudyard Kipling?",
-    "Answer": "The Jungle Books"
-  },
-  {
     "Category": "People & Places",
     "Question": " Who answered a 'Today' show question on French leader Valery Giscard d'Estaing with 'Who?'?",
     "Answer": "Ronald Reagan"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What '50s sitcom airs every hour of every day somewhere in the world?",
-    "Answer": "I Love Lucy"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " What archipelago did Charles Darwin call the 'origin of all my views'?",
     "Answer": "The Galapagos"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What Clinton cabinet member wrestled an aligator for sport in the Everglades?",
-    "Answer": "Janet Reno"
   },
   {
     "Category": "World",
@@ -20715,11 +19709,6 @@
     "Category": "People & Places",
     "Question": " Whose first night in jail prompted her hubby, Harry, to kill the lights in a skyscraper's tower?",
     "Answer": "Leona Helmsley's"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What Jefferson Airplane hit described Alice of Wonderland fame as being 10 feet tall?",
-    "Answer": "White Rabbit"
   },
   {
     "Category": "History",
@@ -20777,19 +19766,9 @@
     "Answer": "Gloria Steinem"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " In blackjack, a hand of Ace and Nine can count as Ten or what?",
-    "Answer": "Twenty"
-  },
-  {
     "Category": "People & Places",
     "Question": " What is the name of the isle that John and Paul want to summer on at age 64 'if it's not too dear'?",
     "Answer": "The Isle of Wight"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What kind of pet did the Beaver and Wally hide from June and Ward in their toilet tank?",
-    "Answer": "Alligator"
   },
   {
     "Category": "Sports & Leisure",
@@ -20800,16 +19779,6 @@
     "Category": "Science & Nature",
     "Question": " What type of power enables a submarine to circle the globe without surfacing?",
     "Answer": "Nuclear"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Whose 1994 'Letterman' appearance did Charles Grodin spoof by handing Dave his boxer shorts?",
-    "Answer": "Madonna's"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What Shakespeare play included creatures named Peaseblossom, Cobweb and Mustardseed?",
-    "Answer": "A Midsummer Night's Dream"
   },
   {
     "Category": "People & Places",
@@ -20897,11 +19866,6 @@
     "Answer": "Eddie Murphy"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What movie saw Whoopi Goldberg receive an Oscar nomination for her first screen role?",
-    "Answer": "The Color Purple"
-  },
-  {
     "Category": "Sports & Leisure",
     "Question": " What basketballer's reluctance to talk to the media prompted them to dub him 'The Silent Sycamore'?",
     "Answer": "Larry Bird's"
@@ -20942,11 +19906,6 @@
     "Answer": "Ryne Sandberg"
   },
   {
-    "Category": "Arts & Entertainment: What onetime 'Mission",
-    "Question": " Impossible' star suffered lung cancer, a brain tumor and a car crash?",
-    "Answer": "Greg Morris"
-  },
-  {
     "Category": "People & Places",
     "Question": " What Judith Krantz TV miniseries had eight days of shooting in New York City and 75 in Toronto?",
     "Answer": "I'll Take Manhattan"
@@ -20965,11 +19924,6 @@
     "Category": "World",
     "Question": " What woman was the top gun in Buffalo Bill's Wild West Show?",
     "Answer": "Annie Oakley"
-  },
-  {
-    "Category": "World",
-    "Question": " Whose TV talk show had an elected official and Ross Perot clashing over NAFTA?",
-    "Answer": "Larry King's"
   },
   {
     "Category": "Sports & Leisure",
@@ -20995,11 +19949,6 @@
     "Category": "People & Places",
     "Question": " Who was the first European to stand atop Mount Everest?",
     "Answer": "Edmund Hillary"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who did Franco Zeffirelli call 'the most beautiful creation I have ever seen ... almost like a drug'?",
-    "Answer": "Brooke Shields"
   },
   {
     "Category": "History",
@@ -21052,11 +20001,6 @@
     "Answer": "Other people"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " What Kansas City Royals rookie stunned teammates by giving them autographed photos when he reported?",
-    "Answer": "Bo Jackson"
-  },
-  {
     "Category": "World",
     "Question": " What former child star originated the role of Mordred in the Broadway musical 'Camelot'?",
     "Answer": "Roddy McDowall"
@@ -21065,16 +20009,6 @@
     "Category": "Science & Nature",
     "Question": " What 1962 book by Rachel Carson is credited with increasing public interest in environmental dangers?",
     "Answer": "Silent Spring"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What decathlon star claimed he kept in shape as a youth by running from police?",
-    "Answer": "Dave Johnson"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What did Murphy Brown name her child in 1992, in the most-watched TV birth since 1953's Little Ricky?",
-    "Answer": "Avery"
   },
   {
     "Category": "Sports & Leisure",
@@ -21090,11 +20024,6 @@
     "Category": "History",
     "Question": " Who earned international headlines for slapping a battle-fatigued soldier in 1943?",
     "Answer": "George Patton"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " In what game does a batsman protect a wicket?",
-    "Answer": "Cricket"
   },
   {
     "Category": "People & Places",
@@ -21122,29 +20051,9 @@
     "Answer": "Godzilla"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What Seattle band saw its second album spawn record first-week U.S. sales of 950,000 copies in 1993?",
-    "Answer": "Pearl Jam"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who concentrated on the guitar full-time after an injury shortened his paratrooper career?",
-    "Answer": "Jimi Hendrix"
-  },
-  {
     "Category": "People & Places",
     "Question": " What European capital sandbagged air raid shelters in World War II?",
     "Answer": "London"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " Who was standing at home plate when he heard about the birth of his son, Mickey Elvin?",
-    "Answer": "Mickey Mantle"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What speed did Marty McFly have to reach to get his souped-up DeLorean car back to the future?",
-    "Answer": "Eighty-eight miles an hour"
   },
   {
     "Category": "World",
@@ -21157,11 +20066,6 @@
     "Answer": "Troy Aikman"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What was the question, according to Hamlet?",
-    "Answer": "To be or not to be"
-  },
-  {
     "Category": "World",
     "Question": " What airline tripled its business during the years it used a koala as a pitchman?",
     "Answer": "Qantas"
@@ -21172,11 +20076,6 @@
     "Answer": "Robert E. Lee, Jefferson Davis, Stonewall Jackson"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " Who shaved his head and lost 30 pounds for a role that won him an Oscar in 1994?",
-    "Answer": "Tom Hanks"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " Where have the ashes of 'Star Trek' producer Gene Roddenberry gone that few ashes have gone before?",
     "Answer": "Outer space"
@@ -21185,11 +20084,6 @@
     "Category": "Science & Nature",
     "Question": " What U.S. president did Albert Einstein write, warning it was possible to build an atomic bomb?",
     "Answer": "Franklin D. Roosevelt"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What does a red flag with a diagonal white stripe mean, when floating on the water?",
-    "Answer": "Diver down"
   },
   {
     "Category": "History",
@@ -21247,16 +20141,6 @@
     "Answer": "Truth or Consequences"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What corpulent comedian donated a pair of his pants to complete Charlie Chaplin's Little Tramp outfit?",
-    "Answer": "Fatty Arbuckle"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What town did Babe Ruth begin and end his major league playing career in?",
-    "Answer": "Boston"
-  },
-  {
     "Category": "History",
     "Question": " What button sold 20 million units in 1971?",
     "Answer": "The happy face button"
@@ -21302,21 +20186,6 @@
     "Answer": "Suffragettes"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " Name one of the three rock 'n' rollers who bit the dust when their plane plunged into a farm field in 1959?",
-    "Answer": "The Big Bopper, Buddy Holly, Ritchie Valens '"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " Who has scored against more than 140 goaltenders in his NHL career?",
-    "Answer": "Wayne Gretzky"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What golfer turned around and aimed a screamer just over the heads of the gallery in August, 1993?",
-    "Answer": "John Daly"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " What's the most common affliction causing wrist pain in keyboard users?",
     "Answer": "Carpal tunnel syndrome"
@@ -21332,11 +20201,6 @@
     "Answer": "Stegosaurus"
   },
   {
-    "Category": "Arts & Entertainment: What animated TV character admonished",
-    "Question": " 'Don't have a cow, man'?",
-    "Answer": "Bart Simpson"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " Who is five times more likely to die in an accident - a right-handed or a left-handed person?",
     "Answer": "A left-handed person"
@@ -21350,16 +20214,6 @@
     "Category": "World",
     "Question": " What actress' bouts of flatulence inspired friends to nickname her for a novelty store item?",
     "Answer": "Whoopi Goldberg's"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What Tony Orlando and Dawn ditty asked to rap on the ceiling?",
-    "Answer": "Knock Three Times"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What figure skater was offered 35 movie deals during a single week in January, 1994?",
-    "Answer": "Nancy Kerrigan"
   },
   {
     "Category": "History",
@@ -21412,11 +20266,6 @@
     "Answer": "Louisiana"
   },
   {
-    "Category": "World",
-    "Question": " What brand of cat food was hawked by Morris in TV spots?",
-    "Answer": "9-Lives"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " What surgical procedure temporarily relieved Kenny Rogers of his love handles?",
     "Answer": "Liposuction"
@@ -21435,16 +20284,6 @@
     "Category": "Science & Nature",
     "Question": " What covered one-fourth of the earth's land surface in 1950 but will cover only one-sixth by 2000?",
     "Answer": "Forest"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " Who began life as an arch-villain in a computer software game and went on to her own TV series?",
-    "Answer": "Carmen Sandiego"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who wielded the knife during the filming of the shower scene in 'Psycho'?",
-    "Answer": "Alfred Hitchcock"
   },
   {
     "Category": "History",
@@ -21472,39 +20311,14 @@
     "Answer": "Cliff Clavin"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What was the only part of the costume that Charlie Chaplin owned the day he created The Tramp?",
-    "Answer": "cane"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What association saw admissions soar due to a 1979 Village People hit?",
-    "Answer": "YMCA"
-  },
-  {
     "Category": "People & Places",
     "Question": " What's the only country to fly a square flag?",
     "Answer": "Switzerland"
   },
   {
-    "Category": "Arts & Entertainment: Which songstress prompted David Letterman to quip",
-    "Question": " 'I think she's trying to shock us'?",
-    "Answer": "Madonna"
-  },
-  {
     "Category": "World",
     "Question": " What Homeric warrior was still trying to get home 10 years after the Trojan Horse did the trick?",
     "Answer": "Odysseus"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Other than Dick Sargent, what other Dick played the hubby of Elizabeth Montgomery's sitcom witch?",
-    "Answer": "Dick York"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who sang the No. 1 'Grease' tune, 'You're the One That I Want,' in a duet with John Travolta?",
-    "Answer": "Olivia Newton-John"
   },
   {
     "Category": "World",
@@ -21547,21 +20361,6 @@
     "Answer": "George Patton"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What Hollywood legend was a strapping 13 pounds when he came out of the womb on May 26, 1907?",
-    "Answer": "John Wayne"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What book was Randy Shilts typing the last page of when he found out he was HIV-positive?",
-    "Answer": "And the Band Played On"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What basketball player claimed in his autobiography that he bedded some 20,000 women?",
-    "Answer": "Wilt Chamberlain"
-  },
-  {
     "Category": "World",
     "Question": " What pop star had almost decided to quit touring when a pal suggested he don a 'punk Amadeus' look?",
     "Answer": "Elton John"
@@ -21570,26 +20369,6 @@
     "Category": "World: Who once sighed",
     "Question": " 'Playing with yarn is stupid, but cat owners expect it'?",
     "Answer": "Morris the Cat"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What original Not Ready for Prime Time Player was born with the first name Cornelius?",
-    "Answer": "Chevy Chase"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What TV hero opened every episode galloping to the strains of the William Tell Overture?",
-    "Answer": "The Lone Ranger"
-  },
-  {
-    "Category": "Science & Nature",
-    "Question": " What does the koala eat exclusively?",
-    "Answer": "Eucalyptus"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What Orkan phrase did Mork utter to say goodbye?",
-    "Answer": "Nanoo nanoo"
   },
   {
     "Category": "People & Places",
@@ -21625,11 +20404,6 @@
     "Category": "People & Places",
     "Question": " What did Ben Franklin prefer to the eagle as the U.S. national emblem?",
     "Answer": "The turkey"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What quarterback vomited on tight end Bob Adams in his first huddle with the Pittsburgh Steelers?",
-    "Answer": "Terry Bradshaw"
   },
   {
     "Category": "Sports & Leisure",
@@ -21682,11 +20456,6 @@
     "Answer": "Wilt Chamberlain"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What song brought Little Richard out of a bus station kitchen and into the limelight?",
-    "Answer": "Tutti Frutti"
-  },
-  {
     "Category": "People & Places",
     "Question": " What North African capital was built atop the ancient city of Memphis?",
     "Answer": "Cairo"
@@ -21695,16 +20464,6 @@
     "Category": "Science & Nature",
     "Question": " How many miles away did lightning strike, if you heard thunder five seconds after you saw it?",
     "Answer": "One"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What does the winner get when cars are 'racing for pinks'?",
-    "Answer": "The loser's registration card"
-  },
-  {
-    "Category": "World",
-    "Question": " Who has hosted the most hours of TV network programming?",
-    "Answer": "Johnny Carson"
   },
   {
     "Category": "Science & Nature: Who noted",
@@ -21727,44 +20486,14 @@
     "Answer": "Winston Churchill"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What movie had Chevy Chase dreaming he was a member of the Los Angeles Lakers?",
-    "Answer": "Fletch"
-  },
-  {
-    "Category": "History: Which presidential candidate promised in TV spots",
-    "Question": " 'I would not tell a lie'?",
-    "Answer": "Jimmy Carter"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Which hand does Rodin's 'Thinker' rest his chin on?",
-    "Answer": "Right"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What actor got to play a game of 'strip croquet' with Winona Ryder in a 1989 movie?",
-    "Answer": "Christian Slater"
-  },
-  {
     "Category": "Sports & Leisure",
     "Question": " Who did Babe Ruth call 'the greatest first baseman of all time'?",
     "Answer": "Lou Gehrig"
   },
   {
-    "Category": "World",
-    "Question": " What TV title role required Sally Field to appear to be 90 pounds?",
-    "Answer": "The Flying Nun"
-  },
-  {
     "Category": "Sports & Leisure",
     "Question": " Who is baseball's all-time RBI leader, with 2,297?",
     "Answer": "Hank Aaron"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Which of Bruce Lee's movies was the first film co-produced by the U.S. and Hong Kong?",
-    "Answer": "Enter the Dragon"
   },
   {
     "Category": "World",
@@ -21807,11 +20536,6 @@
     "Answer": "John Connally"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What 1986 blockbuster was the first home video to be preceded by a product ad?",
-    "Answer": "Top Gun"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " What term, denoting the limiting of reproduction, was originally coined by Margaret Sanger in 1924?",
     "Answer": "Birth control"
@@ -21822,11 +20546,6 @@
     "Answer": "The Civil War"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What TV show did Joan Rivers, David Letterman, Jay Leno and Garry Shandling all guest-host?",
-    "Answer": "The Tonight Show Starring Johnny Carson"
-  },
-  {
     "Category": "People & Places",
     "Question": " Which country's consumer tastes led to the creation of 'Oreo' cookies without the cream in 1991?",
     "Answer": "Japan"
@@ -21835,21 +20554,6 @@
     "Category": "Sports & Leisure",
     "Question": " What country hosted the most-watched Winter Olympics of all time?",
     "Answer": "Norway"
-  },
-  {
-    "Category": "World",
-    "Question": " What famed canine declined to share the cover of 'TV Guide' with other Hollywood dogs?",
-    "Answer": "Lassie"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What song by Eric Clapton was inspired by the death of his son?",
-    "Answer": "Tears in Heaven"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What TV character made life perilous for racoons in 1955?",
-    "Answer": "Davy Crockett"
   },
   {
     "Category": "People & Places",
@@ -21887,11 +20591,6 @@
     "Answer": "War and Peace"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " Who made his movie debut playing a corpse in 'The Big Chill'?",
-    "Answer": "Kevin Costner"
-  },
-  {
     "Category": "World",
     "Question": " What does the term 'dinks' stand for, that could describe a professional couple without children?",
     "Answer": "Double income, no kids'"
@@ -21917,11 +20616,6 @@
     "Answer": "Snoopy's"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What 1923 volume made a rich man of Lebanese poet Khalil Gibran?",
-    "Answer": "The Prophet"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " What psychiatric diagnosis would be meant if a shrink dubbed a patient a 'double-header'?",
     "Answer": "Schizophrenia"
@@ -21945,16 +20639,6 @@
     "Category": "Sports & Leisure",
     "Question": " What Mobile, Alabama, native skipped high school baseball to play in a semi-pro league at age 15?",
     "Answer": "Hank Aaron"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who did Mork want to kidnap when he first came down to earth?",
-    "Answer": "Richie Cunningham"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What musical group challenged Volvo as Sweden's top moneymaker?",
-    "Answer": "ABBA"
   },
   {
     "Category": "Science & Nature",
@@ -21987,11 +20671,6 @@
     "Answer": "Ivan Pavlov"
   },
   {
-    "Category": "World",
-    "Question": " What distinguished ABC-TV interviewer was called 'Dumbo' by kids in school because he was all ears?",
-    "Answer": "Ted Koppel"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " What's the most expensive solid form of the element carbon?",
     "Answer": "Diamond"
@@ -22020,11 +20699,6 @@
     "Category": "People & Places",
     "Question": " What island is seen in the background of a Bay Area view?",
     "Answer": "Alcatraz"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What rotund gridiron gourmand was nicknamed for a refrigerator?",
-    "Answer": "William Perry"
   },
   {
     "Category": "Sports & Leisure",
@@ -22172,19 +20846,9 @@
     "Answer": "Hot pants"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " Who did the PGA name Golfer of the Century in 1988?",
-    "Answer": "Jack Nicklaus"
-  },
-  {
     "Category": "History",
     "Question": " What 20th-century era had jobless folks singing 'Brother, can you spare a dime?'?",
     "Answer": "The Great Depression"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What 'Grease' gang rebuilt and drove a white sportster?",
-    "Answer": "The T-birds"
   },
   {
     "Category": "Sports & Leisure: Who did Bobby Riggs challenge when he declared",
@@ -22212,11 +20876,6 @@
     "Answer": "Vatican City"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What's the most famous screen line attributed to Humphrey Bogart that he never uttered?",
-    "Answer": "Play it again, Sam'"
-  },
-  {
     "Category": "Sports & Leisure",
     "Question": " What 51-year-old granddad played in the All-Star Game during his 26th NHL season?",
     "Answer": "Gordie Howe"
@@ -22225,11 +20884,6 @@
     "Category": "World",
     "Question": " What name does Rob Reiner hate being called when recognized on the street?",
     "Answer": "Meathead"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What character from 'M;A;S;H' was a cross-dresser?",
-    "Answer": "Maxwell Klinger"
   },
   {
     "Category": "World",
@@ -22252,16 +20906,6 @@
     "Answer": "The Virgin Mary"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What did an actress' character have auctioned off in the movie 'Pretty Baby'?",
-    "Answer": "Her virginity"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What one word did coach Paul William Bryant use to title his autobiography?",
-    "Answer": "Bear"
-  },
-  {
     "Category": "Sports & Leisure",
     "Question": " What are Arnold Palmer's adoring fans collectively known as?",
     "Answer": "Arnie's army"
@@ -22280,11 +20924,6 @@
     "Category": "People & Places",
     "Question": " Whose death certificate were hordes of fans buying copies of from Post Mortem Arts in Seattle for $25?",
     "Answer": "Kurt Cobain's"
-  },
-  {
-    "Category": "World",
-    "Question": " What TV talk show host got his nose broken when skinheads hit him with a chair during a show?",
-    "Answer": "Geraldo Rivera"
   },
   {
     "Category": "People & Places",
@@ -22327,19 +20966,9 @@
     "Answer": "The ozone layer"
   },
   {
-    "Category": "World",
-    "Question": " What TV host ordered french fries at a Maine eatery just so she could stare longingly at them?",
-    "Answer": "Oprah Winfrey"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " What monstrous name did critics give to the first genetically engineered, FDA-approved tomato?",
     "Answer": "Frankentomato"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What chess piece combines the powers of the Rook and the Bishop?",
-    "Answer": "The queen"
   },
   {
     "Category": "Sports & Leisure",
@@ -22350,21 +20979,6 @@
     "Category": "World",
     "Question": " What seven-foot-one graduate of the U.S. Naval Academy was deemed too tall for shipboard work?",
     "Answer": "David Robinson"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What film featured far-flung folk drawn to Devil's Tower in Wyoming?",
-    "Answer": "Close Encounters of the Third Kind"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What NBA star's surname translates to English as 'always being on top'?",
-    "Answer": "Hakeem Olajuwon's"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What one-season wonder on the 'Saturday Night Live' show played the Land Shark?",
-    "Answer": "Chevy Chase"
   },
   {
     "Category": "World",
@@ -22382,19 +20996,9 @@
     "Answer": "The World Cup of soccer"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " Who is David Cassidy's half-brother?",
-    "Answer": "Shaun Cassidy"
-  },
-  {
     "Category": "People & Places",
     "Question": " How many people did Bernhard Goetz shoot in a New York subway in 1985?",
     "Answer": "Four"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " Who landed the blow that left Mike Tyson groping for his mouthpiece on February 10, 1990?",
-    "Answer": "Buster Douglas"
   },
   {
     "Category": "History",
@@ -22417,11 +21021,6 @@
     "Answer": "The Ku Klux Klan"
   },
   {
-    "Category": "World",
-    "Question": " What fish appeared in the first of a marathon run of TV commercials in 1961?",
-    "Answer": "Charlie the Tuna"
-  },
-  {
     "Category": "History",
     "Question": " Which military man was nicknamed 'The Little Corporal'?",
     "Answer": "Napoleon"
@@ -22432,11 +21031,6 @@
     "Answer": "Winston Churchill"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What rating did the film 'Flashdance' earn, due in part to it's dances?",
-    "Answer": "R"
-  },
-  {
     "Category": "People & Places",
     "Question": " How did Rasputin die, after being poisoned, shot, beaten, bound and thrown in the Neva River?",
     "Answer": "He drowned"
@@ -22445,26 +21039,6 @@
     "Category": "World",
     "Question": " What type of jacket did the 'Top Gun' actress help to make a major fashion statement?",
     "Answer": "The bomber jacket"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who discovered nothing but an empty bottle when he opened Al Capone's safe in a highly-rated TV special?",
-    "Answer": "Geraldo Rivera"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What city did Eddie Murphy serve to protect before events took him to Beverly Hills?",
-    "Answer": "Detroit"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What TV bigot did the Jeffersons live next to on Houser Street?",
-    "Answer": "Archie Bunker"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who was the insect-eating assistant of Bram Stoker's classic wall-crawling blood-drinker?",
-    "Answer": "Renfield"
   },
   {
     "Category": "Science & Nature",
@@ -22492,11 +21066,6 @@
     "Answer": "Shoeless Joe Jackson"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " Who played the mystery woman trying to kill Blues Brother John Belushi?",
-    "Answer": "Carrie Fisher"
-  },
-  {
     "Category": "People & Places",
     "Question": " What section of Los Angeles did these National Guardsmen patrol during this 1965 riot?",
     "Answer": "Watts"
@@ -22505,11 +21074,6 @@
     "Category": "World",
     "Question": " What David Lynch movie might some film buffs have attended expecting to see Bobby Vinton's life story?",
     "Answer": "Blue Velvet"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What songbird uttered the F-word 13 times as David Letterman's TV guest?",
-    "Answer": "Madonna"
   },
   {
     "Category": "World",
@@ -22542,21 +21106,6 @@
     "Answer": "The Hail Mary"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What Pink Floyd album logged more than 20 years on the charts?",
-    "Answer": "Dark Side of the Moon"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " Who took two rounds to put Joe Frazier on dream street in winning the heavyweight title in 1973?",
-    "Answer": "George Foreman"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " Which champion racketeer was taught tennis by a doting mother?",
-    "Answer": "Jimmy Connors"
-  },
-  {
     "Category": "History: Whose 1923 death prompted Henry Cabot Lodge to gush",
     "Question": " 'My God! That means Coolidge is president'?",
     "Answer": "Warren G. Harding's"
@@ -22565,11 +21114,6 @@
     "Category": "Science & Nature",
     "Question": " What did Nikita Khrushchev call the rocket NASA tried to launch two months after 'Sputnik' made history?",
     "Answer": "Kaputnik"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " What woeful team chose a player named Steve Chilcott in the 1966 free agent draft?",
-    "Answer": "The New York Mets"
   },
   {
     "Category": "World",
@@ -22600,11 +21144,6 @@
     "Category": "Science & Nature",
     "Question": " What does a television set have if it comes with 'PIP'?",
     "Answer": "Picture-in-picture"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What color sail was the signal to the ailing Tristan that his love was coming to him?",
-    "Answer": "White"
   },
   {
     "Category": "History",
@@ -22642,16 +21181,6 @@
     "Answer": "El Nino"
   },
   {
-    "Category": "World",
-    "Question": " Who manned a mop as a janitor at a Miami radio station before mopping up as a TV talk show host?",
-    "Answer": "Larry King"
-  },
-  {
-    "Category": "Arts & Entertainment: Which songstress prompted David Letterman to quip",
-    "Question": " 'I think she's trying to shock us'?",
-    "Answer": "Madonna"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " What letter does the first four notes of Beethoven's Fifth Symphony denote in Morse code, making it a onetime favorite of the Allies?",
     "Answer": "V"
@@ -22687,24 +21216,9 @@
     "Answer": "Judy Garland"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " What Muhammad Ali tactical advice was inspired by insects?",
-    "Answer": "Float like a butterfly, sting like a bee"
-  },
-  {
     "Category": "World",
     "Question": " What was received on the second day of Christmas, according to the song?",
     "Answer": "Two turtledoves"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What Indiana Jones movie saw an actress make her mark on future hubby Steven Spielberg?",
-    "Answer": "Indiana Jones and the Temple of Doom"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who portrayed legendary boxer Jack Johnson in the movie 'The Great White Hope'?",
-    "Answer": "James Earl Jones"
   },
   {
     "Category": "Science & Nature",
@@ -22742,19 +21256,9 @@
     "Answer": "The Empire State Building"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " What city saw its streets become household names after the Monopoly game hit the jackpot?",
-    "Answer": "Atlantic City"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " What twosome made history at Kill Devil Hill, North Carolina, on December 17, 1903?",
     "Answer": "Orville and Wilbur Wright"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What movie had Dan Ackroyd losing his job, home, fiancee, limo and butler?",
-    "Answer": "Trading Places"
   },
   {
     "Category": "Sports & Leisure",
@@ -22770,11 +21274,6 @@
     "Category": "World",
     "Question": " What Disney animated feature required the drawing of 6,469,952 black spots?",
     "Answer": "101 Dalmatians"
-  },
-  {
-    "Category": "Arts & Entertainment: What comedian's signature line was",
-    "Question": " 'This is another fine mess you've gotten us into'?",
-    "Answer": "Oliver Hardy's"
   },
   {
     "Category": "World",
@@ -22807,19 +21306,9 @@
     "Answer": "Night baseball"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What Brady Buncher carped about being 'everybody's answer to a 'Trivial Pursuit' question'?",
-    "Answer": "Eve Plumb"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " How many of every 10 boys born in the U.S. are circumcised?",
     "Answer": "Seven"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What bird inspired Edgar Allen Poe to write a poem?",
-    "Answer": "The raven"
   },
   {
     "Category": "History",
@@ -22902,111 +21391,6 @@
     "Answer": "A scuba diver"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " Who was the youngest person to win an acting Oscar?",
-    "Answer": "Tatum O'Neal at age 10"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What did the Scarecrow want from the Wizard of Oz?",
-    "Answer": "A brain"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What is Keanu Reeves character's Real name in 'The Matrix' (1999)?",
-    "Answer": "Thomas Anderson"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What is Keanu Reeve's hacker name in the movie, 'The Matrix' (1999)?",
-    "Answer": "Neo"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who is the voice of Darth Vader in 'Star Wars'?",
-    "Answer": "James Earl Jones"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What is the name of Han Solo's ship in 'Star Wars'?",
-    "Answer": "The Millennium Falcon"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What kind of car was used as a time machine in the 'Back To The Future' movies?",
-    "Answer": "A DeLoren"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What is the name of the sequel to '101 Dalmations'?",
-    "Answer": "102 Dalmations"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What was Indiana Jones's real first name?",
-    "Answer": "Henry"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What actor starred in both 'Funny Girl' and 'Lawrence Of Arabia'?",
-    "Answer": "Omar Sharif"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What Academy Award winning actor is Angelina Jolie's father?",
-    "Answer": "Jon Voight"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who is famous for saying 'I'll be back'?",
-    "Answer": "Arnold Schwarzenegger"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who is famous for saying 'Make my day'?",
-    "Answer": "Clint Eastwood"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who played the voice of the baby in 'Look Who's Talking' (1989)?",
-    "Answer": "Bruce Willis"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What name is Lazlo Loewenstein better know as?",
-    "Answer": "Peter Lorre"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Lucille LeSueur was the real name of what legendary Hollywood actress?",
-    "Answer": "Joan Crawford"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Caryn Johnson is the birth name of what famous comic and actress?",
-    "Answer": "Whoopi Goldberg"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " In what movie did we first hear 'May the force be with you'?",
-    "Answer": "Star Wars"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " In what movie did Tom Cruise play a vampire?",
-    "Answer": "Interview With The Vampire"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who played Dr. Frankenstein in 'Young Frankenstein'?",
-    "Answer": "Gene Wilder"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who played the monster in 'Young Frankenstein'?",
-    "Answer": "Peter Boyle"
-  },
-  {
     "Category": "Geography",
     "Question": " What is the highest mountain in the world?",
     "Answer": "Mt. Everest in Nepal and Tibet at 29,028 feet"
@@ -23087,16 +21471,6 @@
     "Answer": "France and England from 1334 to 1453"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " How are the Bee Gees related?",
-    "Answer": "They are brothers"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " Where was the game of golf invented?",
-    "Answer": "Scotland"
-  },
-  {
     "Category": "History",
     "Question": " Who was the first 'elected' President of Russia?",
     "Answer": "Boris Yeltsin"
@@ -23172,16 +21546,6 @@
     "Answer": "Loch"
   },
   {
-    "Category": "Arts & Entertainmen",
-    "Question": " Who was the singer who made the video THRILLER?",
-    "Answer": "Michael Jackson"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Which actor entered a Charlie Chaplin look alike contest and came in third?",
-    "Answer": "Charlie Chaplin"
-  },
-  {
     "Category": "Geography",
     "Question": " Which animal are the Canary Islands named after?",
     "Answer": "Dog"
@@ -23232,11 +21596,6 @@
     "Answer": "1991"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " Where were the 2000 Olympics held?",
-    "Answer": "Sydney, Australia"
-  },
-  {
     "Category": "History",
     "Question": " What year was the Commonwealth of Australia established?",
     "Answer": "1901"
@@ -23272,16 +21631,6 @@
     "Answer": "Budapest"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What name is Annie Mae Bullock better know as?",
-    "Answer": "Tina Turner"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What name is Paul Hewson better know as?",
-    "Answer": "Bono, from the group called U2"
-  },
-  {
     "Category": "Geography",
     "Question": " What middle eastern state was founded in 1948?",
     "Answer": "Israel"
@@ -23290,36 +21639,6 @@
     "Category": "Language",
     "Question": " What does the Russian word buran mean?",
     "Answer": "Blizzard"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " How many members in the guy group N'SYNC?",
-    "Answer": "5"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Name one of the 3 members of N'SYNC whose names start with the letter 'J'.",
-    "Answer": "Joey, JC or Justin"
-  },
-  {
-    "Category": "Arts & Entertainnment",
-    "Question": " Name one of the 2 members of N'SYNC whose names do NOT start with the letter 'J'.",
-    "Answer": "Chris and Lance"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What year was the movie Ben Hur with Charlton Heston made?",
-    "Answer": "1959"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who played Captain Queeg in 'The Caine Mutiny'?",
-    "Answer": "Humphrey Bogart"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Who played Maggie in 'Cat On A Hot Tin Roof' with Paul Newman?",
-    "Answer": "Elizabeth Taylor"
   },
   {
     "Category": "Language",
@@ -23407,11 +21726,6 @@
     "Answer": "War, Pestilence, Famine and Death"
   },
   {
-    "Category": "Entertainment",
-    "Question": " Vulcan blood is based on what metal?",
-    "Answer": "Copper"
-  },
-  {
     "Category": "Art & Literature: What famous British novel begins with the line",
     "Question": " 'It was a cold day in April, and the clocks were striking thirteen'?",
     "Answer": "1984"
@@ -23437,11 +21751,6 @@
     "Answer": "Ragnarok"
   },
   {
-    "Category": "Entertainment",
-    "Question": " Name Quickdraw McGraw's sidekick.",
-    "Answer": "Baba Looey"
-  },
-  {
     "Category": "History",
     "Question": " What was the name of the battle in which Hannibal was defeated?",
     "Answer": "Zama"
@@ -23460,11 +21769,6 @@
     "Category": "Art & Literature",
     "Question": " In Norse mythology, the icy underworld was called?",
     "Answer": "Niflheim"
-  },
-  {
-    "Category": "Entertainment",
-    "Question": " What song did the fictitious Dr. Chandra teach his famous computer HAL 9000 to sing?",
-    "Answer": "Bicycle Built For Two"
   },
   {
     "Category": "Science & Nature",
@@ -23492,16 +21796,6 @@
     "Answer": "Janus"
   },
   {
-    "Category": "Entertainment",
-    "Question": " What was Dr. Who's phone booth called?",
-    "Answer": "Tardis"
-  },
-  {
-    "Category": "Entertainment",
-    "Question": " What words is the acronym HAL in the famous computer's name derived from?",
-    "Answer": "Heuristically programmed ALgorithmic computer"
-  },
-  {
     "Category": "Art & Literature",
     "Question": " Name Captain Nemo's submarine?",
     "Answer": "Nautilus"
@@ -23525,11 +21819,6 @@
     "Category": "History",
     "Question": " Which god was a favourite of the Roman legions, who sacrificed a bull to him in secret rituals?",
     "Answer": "Mithras"
-  },
-  {
-    "Category": "Entertainment",
-    "Question": " Who dances the waltz in Mr. Kite's show?",
-    "Answer": "Henry the Horse"
   },
   {
     "Category": "History",
@@ -23560,11 +21849,6 @@
     "Category": "Geography",
     "Question": " Which well-known Russian city has seen it's name changed 3 times since it was founded in 1703 by Peter the Great?",
     "Answer": "St. Petersburg, Russia"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " Of the 7 dwarfs in 'Snow White and The Seven Dwarfs', which one is the only beardless one?",
-    "Answer": "Dopey"
   },
   {
     "Category": "Language: True or false",
@@ -23615,16 +21899,6 @@
     "Category": "Science & Nature",
     "Question": " The blood of mammals is red. What color is a lobster's blood?",
     "Answer": "blue"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What cartoon character says 'DOH'?",
-    "Answer": "Homer Simpson"
-  },
-  {
-    "Category": "Arts & Entertainment: True or false",
-    "Question": " In the movie, 'The Wizard Of Oz', Dorothy's 3 companions were looking for a heart, a brain and a glass slipper.",
-    "Answer": "False"
   },
   {
     "Category": "Languages",
@@ -23957,16 +22231,6 @@
     "Answer": "1 Kg"
   },
   {
-    "Category": "Arts & Entertainment: What Lewis Carroll work offers this bit of whimsy",
-    "Question": " 'All mimsy were the borogoves, and the mome raths outgrabe'?",
-    "Answer": "Alice's Adventures in Wonderland"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " How many of every 10 baseball players who sign pro contracts never play in a major league game?",
-    "Answer": "Nine"
-  },
-  {
     "Category": "Science & Nature",
     "Question": " Which of the big, jungle cats is the only cat to be social rather than solitary?",
     "Answer": "The lion"
@@ -24072,11 +22336,6 @@
     "Answer": "Sextant"
   },
   {
-    "Category": "Sports & Leisure",
-    "Question": " What chess piece is second in strength only to the queen?",
-    "Answer": "Rook"
-  },
-  {
     "Category": "People & Places",
     "Question": " What fort's 1814 bombardment inspired Francis Scott Key to pen the USA's anthem's lyrics?",
     "Answer": "Fort McHenry's"
@@ -24110,11 +22369,6 @@
     "Category": "People & Places",
     "Question": " What country found wooden shoes to be no match for German jackboots in 1940?",
     "Answer": "The Netherlands"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What six words does 007 say when introducing himself?",
-    "Answer": "The name is Bond, James Bond"
   },
   {
     "Category": "Science & Nature",
@@ -24257,24 +22511,9 @@
     "Answer": "Marc Antony"
   },
   {
-    "Category": "Arts & Entertainment",
-    "Question": " What does 'dormez-vous' mean?",
-    "Answer": "Are you sleeping?"
-  },
-  {
     "Category": "People & Places",
     "Question": " What name did Mohammed A. Salameh use when he rented the van that carried the bomb that blew up the World Trade Center in New York City?",
     "Answer": "Mohammed A. Salameh"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What name did gangsta' rapper, Snoop Dogg, give his platinum debut album?",
-    "Answer": "Doggystyle"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What Spike Lee movie title was uttered in Congress 67 times in the six months after its release?",
-    "Answer": "Do the Right Thing"
   },
   {
     "Category": "People & Places",
@@ -24295,16 +22534,6 @@
     "Category": "Science & Nature",
     "Question": " What invention rendered the short-lived Pony Express delivery service unnecessary?",
     "Answer": "The telegraph"
-  },
-  {
-    "Category": "Sports & Leisure",
-    "Question": " Who, with Emil Gagnan, invented the gear that allows scuba diving to flourish as a sport?",
-    "Answer": "Jacques Cousteau"
-  },
-  {
-    "Category": "Arts & Entertainment",
-    "Question": " What 'pet' came with an owner's manual that said it could learn to 'play dead' with no training?",
-    "Answer": "The Pet Rock"
   },
   {
     "Category": "History: True or false",

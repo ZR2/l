@@ -1,20 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 using Discord.Modules;
 using Discord.Commands;
-using System.IO;
 using Discord;
-using Discord.Audio;
-using YoutubeExtractor;
-using System.Threading;
-using System.Diagnostics;
 using NadekoBot.Extensions;
-using System.Net;
-using System.Globalization;
 using System.Collections.Concurrent;
 using NadekoBot.Classes.Music;
+using Timer = System.Timers.Timer;
 
 namespace NadekoBot.Modules {
     class Music : DiscordModule {
@@ -26,7 +18,7 @@ namespace NadekoBot.Modules {
                                 .Where(kvp => kvp.Value.CurrentSong == null
                                 && kvp.Value.SongQueue.Count == 0)) {
                 var val = mp.Value;
-                musicPlayers.TryRemove(mp.Key, out val);
+                (musicPlayers as System.Collections.IDictionary).Remove(mp.Key);
             }
         }
 
@@ -44,10 +36,19 @@ namespace NadekoBot.Modules {
         }
 
         public Music() : base() {
-            System.Timers.Timer cleaner = new System.Timers.Timer();
-            cleaner.Elapsed += (s, e) => CleanMusicPlayers();
+            Timer cleaner = new Timer();
+            cleaner.Elapsed += (s, e) => System.Threading.Tasks.Task.Run(() => CleanMusicPlayers());
             cleaner.Interval = 10000;
             cleaner.Start();
+            /*
+            Timer statPrinter = new Timer();
+            NadekoBot.client.Connected += (s, e) => {
+                if (statPrinter.Enabled) return;
+                statPrinter.Elapsed += (se, ev) => { Console.WriteLine($"<<--Music-->> {musicPlayers.Count} songs playing."); musicPlayers.ForEach(kvp => Console.WriteLine(kvp.Value?.CurrentSong?.PrintStats())); Console.WriteLine("<<--Music END-->>"); };
+                statPrinter.Interval = 5000;
+                statPrinter.Start();
+            };
+            */
         }
 
         public override void Install(ModuleManager manager) {
@@ -74,7 +75,6 @@ namespace NadekoBot.Modules {
                         player.RemoveAllSongs();
                         if (player.CurrentSong != null) {
                             player.CurrentSong.Cancel();
-                            player.CurrentSong = null;
                         }
                     });
 
@@ -83,7 +83,7 @@ namespace NadekoBot.Modules {
                     .Description("Pauses the song")
                     .Do(async e => {
                         if (musicPlayers.ContainsKey(e.Server) == false) return;
-                        await e.Send("This feature is coming VERY soon.");
+                        await e.Send("This feature is coming tomorrow.");
                         /*
                         if (musicPlayers[e.Server].Pause())
                             if (musicPlayers[e.Server].IsPaused)
@@ -129,7 +129,7 @@ namespace NadekoBot.Modules {
                             player.SongQueue.Add(sr);
                         } catch (Exception ex) {
                             Console.WriteLine();
-                            await e.Send("Error. :anger:");
+                            await e.Send($"Error. :anger:\n{ex.Message}");
                             return;
                         }
                     });
@@ -153,14 +153,6 @@ namespace NadekoBot.Modules {
                      var player = musicPlayers[e.Server];
                      await e.Send($"Now Playing **{player.CurrentSong.Title}**");
                  });
-
-                cgb.CreateCommand("clrbfr")
-                    .Alias("clearbuffers")
-                    .Description("Clears the music buffer across all servers. **Owner only.**")
-                    .Do(e => {
-                        if (NadekoBot.OwnerID != e.User.Id) return;
-                        Directory.Delete("StreamBuffers", true);
-                    });
 
                 cgb.CreateCommand("sh")
                     .Description("Shuffles the current playlist.")
