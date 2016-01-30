@@ -9,13 +9,10 @@ using Discord.Modules;
 using Discord.Audio;
 using NadekoBot.Extensions;
 using System.Timers;
-using System.Linq;
-using System.Diagnostics;
 
 namespace NadekoBot {
     class NadekoBot {
         public static DiscordClient client;
-        public static StatsCollector stats_collector;
         public static string botMention;
         public static string GoogleAPIKey = null;
         public static ulong OwnerID;
@@ -23,8 +20,6 @@ namespace NadekoBot {
         public static string password;
         public static string TrelloAppKey;
         public static bool ForwardMessages = false;
-        public static string BotVersion = "0.8-beta2";
-        public static int commandsRan = 0;
 
         static void Main() {
             //load credentials from credentials.json
@@ -52,11 +47,19 @@ namespace NadekoBot {
                     ForwardMessages = true;
                     Console.WriteLine("Forwarding messages.");
                 }
+                if (c.ParseKey == null || c.ParseID == null || c.ParseID == "" || c.ParseKey == "") {
+                    Console.WriteLine("Parse key and/or ID not found. Those are mandatory.");
+                    Console.ReadKey();
+                    return;
+                }
+
+                //init parse
+                ParseClient.Initialize(c.ParseID, c.ParseKey);
 
                 OwnerID = c.OwnerID;
                 password = c.Password;
             } catch (Exception ex) {
-                Console.WriteLine("Failed to load stuff from credentials.json, RTFM");
+                Console.WriteLine($"Failed to load stuff from credentials.json, RTFM\n{ex.Message}");
                 Console.ReadKey();
                 return;
             }
@@ -64,30 +67,18 @@ namespace NadekoBot {
             //create new discord client
             client = new DiscordClient();
 
+
             //create a command service
             var commandService = new CommandService(new CommandServiceConfig {
                 CommandChar = null,
                 HelpMode = HelpMode.Disable
             });
-
-            //init parse
-            if (c.ParseKey != null && c.ParseID != null && c.ParseID != "" && c.ParseKey != "") {
-                ParseClient.Initialize(c.ParseID, c.ParseKey);
-
-                //monitor commands for logging
-                stats_collector = new StatsCollector(commandService);
-            } else {
-                Console.WriteLine("Parse key and/or ID not found. Logging disabled.");
-            }
-
+            
             //reply to personal messages and forward if enabled.
             client.MessageReceived += Client_MessageReceived;
 
             //add command service
             var commands = client.Services.Add<CommandService>(commandService);
-
-            //count commands ran
-            client.Commands().CommandExecuted += (s, e) => commandsRan++;
 
             //create module service
             var modules = client.Services.Add<ModuleService>(new ModuleService());
@@ -110,15 +101,11 @@ namespace NadekoBot {
             if (loadTrello)
                 modules.Add(new Trello(), "Trello", ModuleFilter.None);
 
-            //start the timer for stats
-            _statsSW.Start();
             //run the bot
             client.ExecuteAndWait(async () => {
                 await client.Connect(c.Username, c.Password);
-
-                LoadStats();
                 Console.WriteLine("-----------------");
-                Console.WriteLine(GetStats());
+                Console.WriteLine(NadekoStats.Instance.GetStats());
                 Console.WriteLine("-----------------");
 
                 foreach (var serv in client.Servers) {
@@ -129,36 +116,7 @@ namespace NadekoBot {
             });
             Console.WriteLine("Exiting...");
             Console.ReadKey();
-        }
-        private static string _statsCache = "";
-        private static Stopwatch _statsSW = new Stopwatch();
-        public static string GetStats() {
-            if (_statsSW.ElapsedTicks > 5) {
-                LoadStats();
-                _statsSW.Restart();
-            }
-            return _statsCache;
-        }
-        private static void LoadStats() {
-            _statsCache =
-            "Author: Kwoth" +
-            $"\nDiscord.Net version: {DiscordConfig.LibVersion}" +
-            $"\nRuntime: {client.GetRuntime()}" +
-            $"\nBot Version: {BotVersion}" +
-            $"\nLogged in as: {client.CurrentUser.Name}" +
-            $"\nBot id: {client.CurrentUser.Id}" +
-            $"\nUptime: {GetUptimeString()}" +
-            $"\nServers: {client.Servers.Count()}" +
-            $"\nChannels: {client.Servers.Sum(s => s.AllChannels.Count())}" +
-            $"\nUsers: {client.Servers.SelectMany(x => x.Users.Select(y => y.Id)).Count()} ({client.Servers.SelectMany(x => x.Users.Select(y => y.Id)).Distinct().Count()} unique) ({client.Servers.SelectMany(x => x.Users.Where(y => y.Status != UserStatus.Offline).Select(y => y.Id)).Distinct().Count()} online)" +
-            $"\nHeap: {Math.Round(GC.GetTotalMemory(true) / (1024.0 * 1024.0), 2).ToString()}MB" +
-            $"\nCommands Ran this session: {commandsRan}";
-        }
-
-        public static string GetUptimeString() {
-            var time = (DateTime.Now - Process.GetCurrentProcess().StartTime);
-            return time.Days + " days, " + time.Hours + " hours, and " + time.Minutes + " minutes.";
-        }
+        }        
 
         static bool repliedRecently = false;
         private static async void Client_MessageReceived(object sender, MessageEventArgs e) {
@@ -183,7 +141,7 @@ namespace NadekoBot {
                 await OwnerUser.SendMessage(e.User + ": ```\n" + e.Message.Text + "\n```");
 
             if (repliedRecently = !repliedRecently) {
-                await e.Send("You can type `-h` or `-help` or `@MyName help` in any of the channels I am in and I will send you a message with my commands.\n Or you can find out what i do here: https://github.com/Kwoth/NadekoBot\nYou can also just send me an invite link to a server and I will join it.\nIf you don't want me on your server, you can simply ban me ;(\nBot Creator's server: https://discord.gg/0ehQwTK2RBhxEi0X");
+                await e.Send("**COMMANDS DO NOT WORK IN PERSONAL MESSAGES**\nYou can type `-h` or `-help` or `@MyName help` in any of the channels I am in and I will send you a message with my commands.\n Or you can find out what i do here: https://github.com/Kwoth/NadekoBot\nYou can also just send me an invite link to a server and I will join it.\nIf you don't want me on your server, you can simply ban me ;(\nBot Creator's server: https://discord.gg/0ehQwTK2RBhxEi0X");
                 Timer t = new Timer();
                 t.Interval = 2000;
                 t.Start();

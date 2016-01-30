@@ -58,9 +58,9 @@ namespace NadekoBot.Modules {
                     .Do(e => {
                         if (musicPlayers.ContainsKey(e.Server) == false) return;
                         var player = musicPlayers[e.Server];
-                        player.Stop();
                         MusicControls throwAwayValue;
                         musicPlayers.TryRemove(e.Server, out throwAwayValue);
+                        player.Stop();
                     });
 
                 cgb.CreateCommand("p")
@@ -92,25 +92,26 @@ namespace NadekoBot.Modules {
                         }
 
                         try {
-                            var sr = player.CreateStreamRequest(e, e.GetArg("query"), player.VoiceChannel);
+                            var sr = await player.CreateStreamRequest(e, e.GetArg("query"), player.VoiceChannel);
                             if (sr == null)
                                 throw new NullReferenceException("StreamRequest is null.");
                             Message msg = null;
+                            Message qmsg = null;
                             sr.OnQueued += async () => {
-                                msg = await e.Send($":musical_note:**Queued** {sr.Title}");
+                                qmsg = await e.Send($":musical_note:**Queued** {sr.Title.TrimTo(55)}");
                             };
                             sr.OnCompleted += async () => {
-                                await e.Send($":musical_note:**Finished playing** {sr.Title}");
+                                await e.Send($":musical_note:**Finished playing** {sr.Title.TrimTo(55)}");
                             };
                             sr.OnStarted += async () => {
                                 if (msg == null)
-                                    await e.Send($":musical_note:**Starting playback of** {sr.Title}");
+                                    await e.Send($":musical_note:**Playing ** {sr.Title.TrimTo(55)}");
                                 else
-                                    await msg.Edit($":musical_note:**Starting playback of** {sr.Title}");
+                                    await msg.Edit($":musical_note:**Playing ** {sr.Title.TrimTo(55)}");
+                                qmsg?.Delete();
                             };
                             sr.OnBuffering += async () => {
-                                if (msg != null)
-                                    msg = await e.Send($":musical_note:**Buffering the song**...{sr.Title}");
+                                msg = await e.Send($":musical_note:**Buffering...** {sr.Title.TrimTo(55)}");
                             };
                         } catch (Exception ex) {
                             Console.WriteLine();
@@ -127,7 +128,8 @@ namespace NadekoBot.Modules {
                         var player = musicPlayers[e.Server];
 
                         await e.Send(":musical_note: " + player.SongQueue.Count + " videos currently queued.");
-                        await e.Send(string.Join("\n", player.SongQueue.Select(v => v.Title).Take(10)));
+                        int number = 1;
+                        await e.Send(string.Join("\n", player.SongQueue.Select(v => $"**#{number++}** {v.Title.TrimTo(60)}").Take(10)));
                     });
 
                 cgb.CreateCommand("np")
