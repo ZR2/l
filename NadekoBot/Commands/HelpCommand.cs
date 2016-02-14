@@ -13,7 +13,7 @@ namespace NadekoBot
             string helpstr = "**COMMANDS DO NOT WORK IN PERSONAL MESSAGES**\nOfficial repo: **github.com/Kwoth/NadekoBot/**";
 
             string lastCategory = "";
-            foreach (var com in client.Commands().AllCommands)
+            foreach (var com in client.Services.Get<CommandService>().AllCommands)
             {
                 if (com.Category != lastCategory)
                 {
@@ -37,7 +37,7 @@ namespace NadekoBot
             string helpstr = "Official repo: **github.com/Kwoth/NadekoBot/** \n";
 
             string lastCategory = "";
-            foreach (var com in client.Commands().AllCommands) {
+            foreach (var com in client.Services.Get<CommandService>().AllCommands) {
                 if (com.Category != lastCategory) {
                     helpstr += "\n### " + com.Category + "  \n";
                     helpstr += "Command and aliases | Description | Usage\n";
@@ -55,12 +55,17 @@ namespace NadekoBot
         public override void Init(CommandGroupBuilder cgb)
         {
             cgb.CreateCommand("-h")
-                .Alias(new string[] { "-help", NadekoBot.botMention + " help", NadekoBot.botMention + " h" })
+                .Alias(new string[] { "-help", NadekoBot.botMention + " help", NadekoBot.botMention + " h", "~h" })
                 .Description("Help command")
                 .Do(DoFunc());
             cgb.CreateCommand("-hgit")
                 .Description("Help command stylized for github readme")
                 .Do(DoGitFunc());
+            cgb.CreateCommand("-readme")
+                .Alias("-guide")
+                .Description("Sends a readme and a guide links to the channel.")
+                .Do(async e =>
+                    await e.Send("**FULL README**: <https://github.com/Kwoth/NadekoBot/blob/master/readme.md>\n\n**GUIDE ONLY**: <https://github.com/Kwoth/NadekoBot/blob/master/ComprehensiveGuide.md>"));
         }
 
         private string PrintCommandHelp(Command com)

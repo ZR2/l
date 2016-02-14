@@ -1,37 +1,70 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Discord.Modules;
 using NadekoBot.Extensions;
-
+using NadekoBot.Commands;
+using Newtonsoft.Json.Linq;
+using System.IO;
+//🃏
+//🏁
 namespace NadekoBot.Modules
 {
     class Games : DiscordModule
     {
+        private string[] _8BallAnswers;
+        private Random _r = new Random();
+
         public Games() : base() {
             commands.Add(new Trivia());
             commands.Add(new SpeedTyping());
+            commands.Add(new PollCommand());
+
+            _8BallAnswers = JArray.Parse(File.ReadAllText("data/8ball.json")).Select(t => t.ToString()).ToArray();
         }
 
         public override void Install(ModuleManager manager)
         {
-            manager.CreateCommands("", cgb =>
-            {
+            manager.CreateCommands("", cgb => {
+
+                cgb.AddCheck(Classes.Permissions.PermissionChecker.Instance);
+
                 commands.ForEach(cmd => cmd.Init(cgb));
+
+                cgb.CreateCommand(">choose")
+                  .Description("Chooses a thing from a list of things\n**Usage**: >choose Get up;Sleep;Sleep more")
+                  .Parameter("list", Discord.Commands.ParameterType.Unparsed)
+                  .Do(async e => {
+                      var arg = e.GetArg("list");
+                      if (string.IsNullOrWhiteSpace(arg))
+                          return;
+                      var list = arg.Split(';');
+                      if (list.Count() < 2)
+                          return;
+                      await e.Send(list[new Random().Next(0, list.Length)]);
+                  });
+
+                cgb.CreateCommand(">8ball")
+                    .Description("Ask the 8ball a yes/no question.")
+                    .Parameter("question",Discord.Commands.ParameterType.Unparsed)
+                    .Do(async e => {
+                        string question = e.GetArg("question").Replace("@everyone","[everyone]");
+                        if (string.IsNullOrWhiteSpace(question))
+                            return;                                                
+                        await e.Channel.SendMessage(
+                            $":question: **Question**: `{question}` \n:crystal_ball: **8Ball Answers**: `{_8BallAnswers[_r.Next(0, _8BallAnswers.Length)]}`");
+                    });
+
                 cgb.CreateCommand(">")
                     .Description("Attack a person. Supported attacks: 'splash', 'strike', 'burn', 'surge'.\n**Usage**: > strike @User")
                     .Parameter("attack_type",Discord.Commands.ParameterType.Required)
                     .Parameter("target",Discord.Commands.ParameterType.Required)
                     .Do(async e =>
                     {
-                        
                         var usr = e.Server.FindUsers(e.GetArg("target")).FirstOrDefault();
                         var usrType = GetType(usr.Id);
                         string response = "";
                         int dmg = GetDamage(usrType, e.GetArg("attack_type").ToLowerInvariant());
-                        response = e.GetArg("attack_type") + (e.GetArg("attack_type")=="splash"?"es ":"s ") + usr.Mention + " for " + dmg+".\n";
+                        response = e.GetArg("attack_type") + (e.GetArg("attack_type") == "splash" ? "es " : "s ") + $"{usr.Mention}{GetImage(usrType)} for {dmg}\n";
                         if (dmg >= 65)
                         {
                             response += "It's super effective!";
@@ -39,7 +72,7 @@ namespace NadekoBot.Modules
                         else if (dmg <= 35) {
                             response += "Ineffective!";
                         }
-                        await e.Send(NadekoBot.botMention + " " + response);
+                        await e.Send($"{ e.User.Mention }{GetImage(GetType(e.User.Id))} {response}");
                     });
 
                 cgb.CreateCommand("poketype")
@@ -51,10 +84,36 @@ namespace NadekoBot.Modules
                         if (usr == null) {
                             await e.Send("No such person.");
                         }
-
-                        await e.Send(usr.Name + "'s type is " + GetType(usr.Id));
+                        var t = GetType(usr.Id);
+                        await e.Send($"{usr.Name}'s type is {GetImage(t)} {t}");
                     });
             });
+        }
+        /*
+
+            🌿 or 🍃 or 🌱 Grass
+⚡ Electric
+❄ Ice
+☁ Fly
+🔥 Fire
+💧 or 💦 Water
+⭕ Normal
+🐛 Insect
+🌟 or 💫 or ✨ Fairy
+    */
+        string GetImage(PokeType t) {
+            switch (t) {
+                case PokeType.WATER:
+                    return "💦";
+                case PokeType.GRASS:
+                    return "🌿";
+                case PokeType.FIRE:
+                    return "🔥";
+                case PokeType.ELECTRICAL:
+                    return "⚡️";
+                default:
+                    return "⭕️";
+            }
         }
 
         private int GetDamage(PokeType targetType, string v)
@@ -98,6 +157,9 @@ namespace NadekoBot.Modules
         }
 
         private PokeType GetType(ulong id) {
+            if (id == 113760353979990024)
+                return PokeType.FIRE;
+
             var remainder = id % 10;
             if (remainder < 3)
                 return PokeType.WATER;

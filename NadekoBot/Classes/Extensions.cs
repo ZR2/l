@@ -8,6 +8,7 @@ using Discord;
 using NadekoBot.Modules;
 using System.IO;
 using System.Drawing;
+using NadekoBot.Classes;
 
 namespace NadekoBot.Extensions {
     public static class Extensions
@@ -29,7 +30,6 @@ namespace NadekoBot.Extensions {
 
                 if (letters[i] != ' ')
                     letters[i] = '_';
-
             }
             return "`"+string.Join(" ", letters)+"`";
         }
@@ -43,6 +43,20 @@ namespace NadekoBot.Extensions {
             if (str.Length < num)
                 return str;
             return string.Join("", str.Take(num - 3)) + "...";
+        }
+        /// <summary>
+        /// Removes trailing S or ES (if specified) on the given string if the num is 1
+        /// </summary>
+        /// <param name="str"></param>
+        /// <param name="num"></param>
+        /// <param name="es"></param>
+        /// <returns>String with the correct singular/plural form</returns>
+        public static string SnPl(this string str, int? num,bool es = false) {
+            if (str == null)
+                throw new ArgumentNullException(nameof(str));
+            if (num == null)
+                throw new ArgumentNullException(nameof(num));
+            return num == 1 ? str.Remove(str.Length - 1, es ? 2 : 1) : str;
         }
 
         /// <summary>
@@ -62,6 +76,8 @@ namespace NadekoBot.Extensions {
         /// <returns></returns>
         public static async Task Send(this MessageEventArgs e, string message)
         {
+            if (string.IsNullOrWhiteSpace(message))
+                return;
             await e.Channel.SendMessage(message);
         }
 
@@ -137,7 +153,7 @@ namespace NadekoBot.Extensions {
         /// <typeparam name="T"></typeparam>
         /// <param name="source"></param>
         /// <param name="action"></param>
-        public static string ShortenUrl(this string str) => Searches.ShortenUrl(str);
+        public static async Task<string> ShortenUrl(this string str) => await SearchHelper.ShortenUrl(str);
 
         /// <summary>
         /// Gets the program runtime
@@ -202,11 +218,13 @@ namespace NadekoBot.Extensions {
         public static int GB(this int value) => value.MB() * 1000;
 
         public static Stream ToStream(this System.Drawing.Image img, System.Drawing.Imaging.ImageFormat format = null) {
+            Console.WriteLine("To stream");
             if (format == null)
                 format = System.Drawing.Imaging.ImageFormat.Jpeg;
             MemoryStream stream = new MemoryStream();
             img.Save(stream, format);
             stream.Position = 0;
+            Console.WriteLine("To stream finished");
             return stream;
         }
 
@@ -215,23 +233,32 @@ namespace NadekoBot.Extensions {
         /// </summary>
         /// <param name="images">The Images you want to merge.</param>
         /// <returns>Merged bitmap</returns>
-        public static Bitmap Merge(this IEnumerable<Image> images) {
+        public static Bitmap Merge(this IEnumerable<Image> images,int reverseScaleFactor = 1) {
+            Console.WriteLine("Start merge");
             if (images.Count() == 0) return null;
             int width = images.Sum(i => i.Width);
-            int height = images.First().Height;
-            Bitmap bitmap = new Bitmap(width, height);
+            int height = images.First().Height ;
+            Bitmap bitmap = new Bitmap(width / reverseScaleFactor, height / reverseScaleFactor);
             var r = new Random();
             int offsetx = 0;
             foreach (var img in images) {
                 Bitmap bm = new Bitmap(img);
                 for (int w = 0; w < img.Width; w++) {
-                    for (int h = 0; h < img.Height; h++) {
-                        bitmap.SetPixel(w + offsetx, h, bm.GetPixel(w, h));
+                    for (int h = 0; h < bitmap.Height; h++) {
+                        bitmap.SetPixel(w / reverseScaleFactor + offsetx, h , bm.GetPixel(w, h *reverseScaleFactor));
                     }
                 }
-                offsetx += img.Width;
+                offsetx += img.Width/reverseScaleFactor;
             }
+            Console.WriteLine("Finish merge");
             return bitmap;
         }
+        /// <summary>
+        /// Merges Images into 1 Image and returns a bitmap asynchronously.
+        /// </summary>
+        /// <param name="images">The Images you want to merge.</param>
+        /// <returns>Merged bitmap</returns>
+        public static async Task<Bitmap> MergeAsync(this IEnumerable<Image> images, int reverseScaleFactor = 1) =>
+            await Task.Run(() => images.Merge(reverseScaleFactor));
     }
 }

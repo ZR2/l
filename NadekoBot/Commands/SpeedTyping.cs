@@ -1,29 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using Discord;
 using Discord.Commands;
 using NadekoBot.Extensions;
-using System.Threading;
 using System.Diagnostics;
-using Parse;
 
-namespace NadekoBot { 
+namespace NadekoBot.Commands {
 
     public static class SentencesProvider {
         internal static string GetRandomSentence() {
-            var data = new ParseQuery<ParseObject>("TypingArticles").FindAsync().Result;
+            var data = Classes.DBHandler.Instance.GetAllRows<Classes._DataModels.TypingArticle>();
             try {
-                return data.ToList()[(new Random()).Next(0, data.Count())].Get<string>("text");
-            } catch (Exception) {
+                return data.ToList()[new Random().Next(0, data.Count())].Text;
+            } catch  {
                 return "Failed retrieving data from parse. Owner didn't add any articles to type using `typeadd`.";
             }
         }
     }
 
-    //todo add leniency and stuff
     public class TypingGame {
         public static float WORD_VALUE { get; } = 4.5f;
         private Channel channel;
@@ -31,7 +27,7 @@ namespace NadekoBot {
         public bool IsActive;
         private Stopwatch sw;
         private List<ulong> finishedUserIds;
-    
+
         public TypingGame(Channel channel) {
             this.channel = channel;
             IsActive = false;
@@ -66,10 +62,10 @@ namespace NadekoBot {
             await Task.Delay(1000);
             await msg.Edit("Starting new typing contest in **1**...");
             await Task.Delay(1000);
-            await msg.Edit($":book:**{currentSentence.Replace(" "," \x200B")}**:book:");
+            await msg.Edit($":book:**{currentSentence.Replace(" ", " \x200B")}**:book:");
             sw.Start();
             HandleAnswers();
-            
+
             while (i > 0) {
                 await Task.Delay(1000);
                 i--;
@@ -114,7 +110,7 @@ namespace NadekoBot {
             runningContests = new Dictionary<ulong, TypingGame>();
         }
 
-        public override Func<CommandEventArgs, Task> DoFunc()=>
+        public override Func<CommandEventArgs, Task> DoFunc() =>
             async e => {
                 if (runningContests.ContainsKey(e.User.Server.Id) && runningContests[e.User.Server.Id].IsActive) {
                     await e.Send($"Contest already running in { runningContests[e.User.Server.Id].Channell.Mention } channel.");
@@ -125,15 +121,14 @@ namespace NadekoBot {
                     return;
                 }
                 var tg = new TypingGame(e.Channel);
-                runningContests.Add(e.Server.Id,tg);
+                runningContests.Add(e.Server.Id, tg);
                 await tg.Start();
             };
 
-        private Func<CommandEventArgs,Task> QuitFunc() =>
+        private Func<CommandEventArgs, Task> QuitFunc() =>
             async e => {
                 if (runningContests.ContainsKey(e.User.Server.Id) &&
-                    await runningContests[e.User.Server.Id].Stop()) 
-                {
+                    await runningContests[e.User.Server.Id].Stop()) {
                     runningContests.Remove(e.User.Server.Id);
                     return;
                 }
@@ -151,14 +146,16 @@ namespace NadekoBot {
 
             cgb.CreateCommand("typeadd")
                 .Description("Adds a new article to the typing contest. Owner only.")
-                .Parameter("text",ParameterType.Unparsed)
+                .Parameter("text", ParameterType.Unparsed)
                 .Do(async e => {
-                    if (e.User.Id != NadekoBot.OwnerID || e.GetArg("text") == null) return;
+                    if (e.User.Id != NadekoBot.OwnerID || string.IsNullOrWhiteSpace(e.GetArg("text"))) return;
 
-                    var obj = new ParseObject("TypingArticles");
-                    obj["text"] = e.GetArg("text");
-                    await obj.SaveAsync();
-                    await e.Send("Added new typing article.");
+                    Classes.DBHandler.Instance.InsertData(new Classes._DataModels.TypingArticle {
+                        Text = e.GetArg("text"),
+                        DateAdded = DateTime.Now
+                    });
+
+                    await e.Send("Added new article for typing game.");
                 });
 
             //todo add user submissions
